@@ -21,3 +21,5 @@
 - 东方财富
 - seismic
 - Nuance
+- 微软
+
