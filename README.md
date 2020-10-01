@@ -20,3 +20,4 @@
 - 招商银行
 - 东方财富
 - seismic
+- Nuance
