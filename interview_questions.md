@@ -6,6 +6,8 @@ https://github.com/MaximAbramchuck/awesome-interview-questions#c-2
 
 ## .NET面试题
 
+https://github.com/coding-daily/awesome-csharp/
+
 https://github.com/MaximAbramchuck/awesome-interview-questions#net
 
 ## SQL面试题
