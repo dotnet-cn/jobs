@@ -25,3 +25,4 @@
 - Ubisoft
 - Volkswagen 德国大众
 - 广联达
+- [华钦科技](http://www.clps.com.cn/)
