@@ -30,3 +30,4 @@
 - Mercer
 - Morgan Stanley
 - UBS
+- Walmart
