@@ -28,4 +28,5 @@
 - [华钦科技](http://www.clps.com.cn/)
 - 西部证券 
 - Mercer
-- 
+- Morgan Stanley
+- UBS
