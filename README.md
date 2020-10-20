@@ -6,9 +6,10 @@
 最后更新日期：2020年10月
 
 # 目前正在使用.NET的公司 
-- 腾讯支付/清算
+- 网易
 - Sanofi
 - BMW
+- DJI
 - [iHerb](http://www.iherb.com)
 - [中通](http://www.zto.com)
 - [AON Hewitt](http://www.aon.com)
@@ -33,3 +34,4 @@
 - Morgan Stanley
 - UBS
 - Walmart
+- 腾讯支付/清算
