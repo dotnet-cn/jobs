@@ -17,6 +17,7 @@
 - [iHerb](http://www.iherb.com)
 - 活动行
 - [生意专家](http://www.i200.cn/)
+- Geekbuying
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
