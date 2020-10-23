@@ -6,33 +6,49 @@
 最后更新日期：2020年10月
 
 # 目前正在使用.NET的公司 
-- 网易
-- Sanofi
-- BMW
-- DJI
-- [iHerb](http://www.iherb.com)
-- [中通](http://www.zto.com)
-- [AON Hewitt](http://www.aon.com)
-- Fnz
-- GreenDot
-- 特斯拉
-- 蔚来汽车
-- [生意专家](http://www.i200.cn/)
-- 活动行
-- 中青旅
-- 招商银行
-- [东方财富](https://www.eastmoney.com)
-- [seismic](https://seismic.com/)
+## 软件
 - Nuance
-- 微软
 - Ubisoft
-- Volkswagen 德国大众
-- [广联达](https://www.glodon.com/)
+- 微软
 - [华钦科技](http://www.clps.com.cn/)
-- 西部证券 
-- Mercer
+
+## 互联网
+- 网易游戏
+- [iHerb](http://www.iherb.com)
+- 活动行
+- [生意专家](http://www.i200.cn/)
+
+## 运输物流
+- [中通快递](http://www.zto.com)
+- 顺丰快递
+
+## 建筑
+- [广联达](https://www.glodon.com/)
+
+## 金融
+- [东方财富](https://www.eastmoney.com)
 - Morgan Stanley
 - UBS
-- Walmart
 - 腾讯支付/清算
+- 西部证券 
+- 招商银行
+- GreenDot
+- Fnz
+
+## 制造业 
+- 特斯拉
+- 蔚来汽车
+- Volkswagen 德国大众
+- BMW
+- Sanofi
+- DJI
+- 中国商飞
 - [Aspen Technology](https://www.aspentech.com/)
+- [seismic](https://seismic.com/)
+
+## 其他
+- Mercer
+- 中青旅
+- Walmart
+- [AON Hewitt](http://www.aon.com)
+
