@@ -23,8 +23,10 @@
 - [中通快递](http://www.zto.com)
 - 顺丰快递
 
-## 建筑
+## 建筑/安防
 - [广联达](https://www.glodon.com/)
+- Honeywell
+- Bosch
 
 ## 金融
 - [东方财富](https://www.eastmoney.com)
