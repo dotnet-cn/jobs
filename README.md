@@ -11,6 +11,7 @@
 - Ubisoft
 - 微软
 - [华钦科技](http://www.clps.com.cn/)
+- 明源云
 
 ## 互联网
 - 网易游戏
