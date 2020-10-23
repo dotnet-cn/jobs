@@ -40,6 +40,7 @@
 - 招商银行
 - GreenDot
 - Fnz
+- [Beta财富](http://www.betawm.com)
 
 ## 制造业 
 - 特斯拉
