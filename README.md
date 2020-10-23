@@ -13,6 +13,7 @@
 - [华钦科技](http://www.clps.com.cn/)
 - 明源云
 - 微创软件
+- Optimum System (奥解思)
 
 ## 互联网
 - 网易游戏
@@ -41,6 +42,7 @@
 - GreenDot
 - Fnz
 - [Beta财富](http://www.betawm.com)
+- 浮石投资
 
 ## 制造业 
 - 特斯拉
