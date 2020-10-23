@@ -10,10 +10,11 @@
 - Nuance
 - Ubisoft
 - 微软
-- [华钦科技](http://www.clps.com.cn/)
+- [华钦科技CLPS](http://www.clps.com.cn/)
 - 明源云
 - 微创软件
 - Optimum System (奥解思)
+- [扩博智能](https://www.clobotics.com/)
 
 ## 互联网
 - 网易游戏
