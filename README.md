@@ -12,6 +12,7 @@
 - 微软
 - [华钦科技](http://www.clps.com.cn/)
 - 明源云
+- 微创软件
 
 ## 互联网
 - 网易游戏
@@ -50,6 +51,7 @@
 - 中国商飞
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
+- 联合利华
 
 ## 其他
 - Mercer
