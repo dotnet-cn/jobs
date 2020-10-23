@@ -27,6 +27,7 @@
 - [广联达](https://www.glodon.com/)
 - Honeywell
 - Bosch
+- 必维国际
 
 ## 金融
 - [东方财富](https://www.eastmoney.com)
