@@ -30,6 +30,9 @@
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/)
 - LexisNexis
+- 微创软件
+- 博彦科技
+- 文思海辉
 
 ## 互联网/游戏
 - 网易游戏
