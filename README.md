@@ -22,7 +22,6 @@
 - Cognizant
 - HP
 - Infor
-- Ubisoft
 - 微软
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 明源云
@@ -39,8 +38,8 @@
 - [iHerb](http://www.iherb.com)
 - 活动行
 - [生意专家](http://www.i200.cn/)
-- Geekbuying
 - EA
+- Ubisoft
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
