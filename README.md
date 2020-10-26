@@ -9,9 +9,19 @@
 
 由于.NET天生是基本不加班的语言，本列表支持996.icu运动，会参考[955公司列表](https://github.com/formulahendry/955.WLB)和[996公司列表](https://github.com/996icu/996.ICU)
 
+
+
 # 目前正在使用.NET的公司 
-## 软件
+## 软件/咨询
 - Nuance
+- Autodesk
+- Avanade
+- Accenture
+- PwC
+- Infosys
+- Cognizant
+- HP
+- Infor
 - Ubisoft
 - 微软
 - [华钦科技CLPS](http://www.clps.com.cn/)
@@ -19,13 +29,15 @@
 - 微创软件
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/)
+- LexisNexis
 
-## 互联网
+## 互联网/游戏
 - 网易游戏
 - [iHerb](http://www.iherb.com)
 - 活动行
 - [生意专家](http://www.i200.cn/)
 - Geekbuying
+- EA
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
@@ -60,6 +72,8 @@
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
 - 联合利华
+- Siemens
+- National Instruments
 
 ## 其他
 - Mercer
