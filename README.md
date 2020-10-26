@@ -62,6 +62,7 @@
 - Fnz
 - [Beta财富](http://www.betawm.com)
 - 浮石投资
+- 万得 Wind
 
 ## 制造业 
 - 特斯拉
