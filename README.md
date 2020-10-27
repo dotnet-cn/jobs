@@ -71,7 +71,6 @@
 - BMW
 - Sanofi
 - DJI
-- 中国商飞
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
 - 联合利华
