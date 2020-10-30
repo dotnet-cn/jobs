@@ -9,8 +9,6 @@
 
 由于.NET天生是基本不加班的语言，本列表支持996.icu运动，会参考[955公司列表](https://github.com/formulahendry/955.WLB)和[996公司列表](https://github.com/996icu/996.ICU)
 
-
-
 # 目前正在使用.NET的公司 
 ## 软件/咨询
 - Nuance
@@ -78,7 +76,7 @@
 - National Instruments
 - 北京金隅集团 (股票601992)
 
-##医疗
+## 医疗
 - 费森尤斯医疗
 - Sanofi
 
