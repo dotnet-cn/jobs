@@ -40,6 +40,7 @@
 - [生意专家](http://www.i200.cn/)
 - EA
 - Ubisoft
+- 智联招聘
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
@@ -76,6 +77,7 @@
 - 联合利华
 - Siemens
 - National Instruments
+- 北京金隅集团 (股票601992)
 
 ## 其他
 - Mercer
