@@ -70,7 +70,6 @@
 - 蔚来汽车
 - Volkswagen 德国大众
 - BMW
-- Sanofi
 - DJI
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
@@ -78,6 +77,10 @@
 - Siemens
 - National Instruments
 - 北京金隅集团 (股票601992)
+
+##医疗
+- 费森尤斯医疗
+- Sanofi
 
 ## 其他
 - Mercer
