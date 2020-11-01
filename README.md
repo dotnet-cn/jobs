@@ -46,14 +46,15 @@
 - 顺丰快递
 
 ## 建筑/安防
-- [广联达](https://www.glodon.com/)
 - Honeywell
-- Bosch
-- Bureau Veritas（必维国际）
+- Bosch 博世
+- Bureau Veritas 必维国际
+- Siemens 西门子
+- [广联达](https://www.glodon.com/)
 
 ## 金融
 - [东方财富](https://www.eastmoney.com)
-- Morgan Stanley
+- Morgan Stanley 摩根斯坦利
 - UBS
 - 腾讯支付/清算
 - 西部证券 
@@ -72,9 +73,8 @@
 - DJI
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
-- 联合利华
-- Siemens
-- National Instruments
+- Unilever 联合利华
+- National Instruments 美国国家仪器
 - 北京金隅集团 (股票601992)
 
 ## 医疗
