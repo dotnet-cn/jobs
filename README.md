@@ -75,7 +75,7 @@
 - [seismic](https://seismic.com/)
 - Unilever 联合利华
 - National Instruments 美国国家仪器
-- 北京金隅集团 (股票601992)
+- 北京金隅集团 (股票代码:601992)
 
 ## 医疗
 - 费森尤斯医疗
