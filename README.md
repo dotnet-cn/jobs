@@ -81,6 +81,7 @@
 ## 医疗
 - 费森尤斯医疗
 - Sanofi
+- [CXA Group](https://www.linkedin.com/company/cxagroup) 
 
 ## 其他
 - Mercer
