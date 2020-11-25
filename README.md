@@ -39,6 +39,7 @@
 - EA
 - Ubisoft
 - 智联招聘
+- 文创互娱
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
