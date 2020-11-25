@@ -35,9 +35,7 @@
 
 ## 互联网/游戏
 - 网易游戏
-- [iHerb](http://www.iherb.com)
 - 活动行
-- [生意专家](http://www.i200.cn/)
 - EA
 - Ubisoft
 - 智联招聘
