@@ -1,6 +1,6 @@
 # 面试准备
 
-请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
+各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
 # 职位与自荐专栏
 专门给猎头、HR和希望找工作的小伙伴开的repo
