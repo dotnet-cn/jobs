@@ -19,6 +19,7 @@
 - Infosys
 - Cognizant
 - HP
+- [AON Hewitt](http://www.aon.com)
 - Infor
 - 微软
 - [华钦科技CLPS](http://www.clps.com.cn/)
@@ -94,5 +95,4 @@
 - 中青旅
 - Walmart
 - 英孚教育
-- [AON Hewitt](http://www.aon.com)
 
