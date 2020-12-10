@@ -42,7 +42,6 @@
 - 智联招聘
 - 文创互娱
 - 58同城
-- iHerb
 - 5173
 - IT之家
 
@@ -87,8 +86,11 @@
 - Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 
-## 其他
+## 人力资源
 - Mercer
+- [码优人力资源](https://www.mayohr.cn)
+
+## 其他
 - 中青旅
 - Walmart
 - 英孚教育
