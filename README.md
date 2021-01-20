@@ -38,6 +38,7 @@
 - [上海元趣](http://www.yuanqutech.com/)
 - 惠普
 - 国双科技 Gridsum
+- Cimpress
 
 ## 互联网/游戏
 - 网易游戏
