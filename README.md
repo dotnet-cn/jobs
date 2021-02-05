@@ -91,6 +91,7 @@
 - 费森尤斯医疗
 - Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
+- Radiometer
 
 ## 人力资源
 - Mercer
