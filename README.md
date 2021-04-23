@@ -76,7 +76,6 @@
 - 万得 Wind
 
 ## 制造业 
-- 特斯拉
 - 蔚来汽车
 - Volkswagen 德国大众
 - BMW
