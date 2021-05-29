@@ -88,6 +88,7 @@
 
 ## 医疗
 - 费森尤斯医疗
+- PerkinElmer
 - Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer
