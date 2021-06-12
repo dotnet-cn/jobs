@@ -66,7 +66,6 @@
 - [东方财富](https://www.eastmoney.com)
 - Morgan Stanley 摩根斯坦利
 - UBS
-- 腾讯支付/清算
 - 西部证券 
 - 招商银行
 - GreenDot
