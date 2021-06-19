@@ -91,6 +91,7 @@
 - Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer
+- Elekta 医科达
 
 ## 人力资源
 - Mercer
