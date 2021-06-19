@@ -7,8 +7,6 @@
 
 有新职位可以去Issues栏目直接开Issue。
 
-最后更新日期：2020年10月
-
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/en_US)
 
 由于.NET天生是基本不加班的语言，本列表支持996.icu运动，会参考[955公司列表](https://github.com/formulahendry/955.WLB)和[996公司列表](https://github.com/996icu/996.ICU)
