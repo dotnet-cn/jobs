@@ -96,7 +96,6 @@
 
 ## 人力资源
 - Mercer
-- [码优人力资源](https://www.mayohr.cn)
 
 ## 其他
 - 中青旅
