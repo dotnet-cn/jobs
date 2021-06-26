@@ -37,6 +37,7 @@
 - 惠普
 - 国双科技 Gridsum
 - Cimpress
+- Transfinder
 
 ## 互联网/游戏
 - 网易游戏
