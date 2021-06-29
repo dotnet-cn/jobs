@@ -89,6 +89,8 @@
 - National Instruments 美国国家仪器
 - 北京金隅集团 (股票代码:601992)
 - ZEISS Group
+- Teradyne
+- 西门子
 
 ## 医疗
 - 费森尤斯医疗
