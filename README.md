@@ -64,21 +64,23 @@
 - [广联达](https://www.glodon.com/)
 
 ## 金融
-- [东方财富](https://www.eastmoney.com)
+- 东方财富
 - Morgan Stanley 摩根斯坦利
 - UBS
 - 西部证券 
 - 招商银行
 - GreenDot
 - Fnz
-- [Beta财富](http://www.betawm.com)
+- Beta财富
 - 浮石投资
 - 万得 Wind
+- Opliver
 
 ## 制造业 
 - 蔚来汽车
 - Volkswagen 德国大众
 - BMW
+- Dow
 - DJI
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
