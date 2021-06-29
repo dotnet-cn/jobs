@@ -75,6 +75,7 @@
 - 浮石投资
 - 万得 Wind
 - Opliver
+- Third Bridge
 
 ## 制造业 
 - 蔚来汽车
