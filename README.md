@@ -36,7 +36,6 @@
 - 惠普
 - 国双科技 Gridsum
 - Cimpress
-- Transfinder
 
 ## 互联网/游戏
 - 网易游戏
@@ -54,6 +53,7 @@
 ## 运输物流
 - [中通快递](http://www.zto.com)
 - 顺丰快递
+- Transfinder
 
 ## 建筑/安防
 - Honeywell
