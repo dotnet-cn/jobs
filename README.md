@@ -14,13 +14,13 @@
 # 目前正在使用.NET的公司 
 ## 软件/咨询
 - Nuance
-- Autodesk
 - Avanade
 - Accenture
 - PwC
 - Infosys
 - Cognizant
 - HP
+- Selerant
 - [AON Hewitt](http://www.aon.com)
 - Infor
 - 微软
