@@ -62,6 +62,8 @@
 - Bureau Veritas 必维国际
 - Siemens 西门子
 - [广联达](https://www.glodon.com/)
+- 龙湖集团
+- 天华建筑设计
 
 ## 金融
 - 东方财富
@@ -78,6 +80,7 @@
 - Third Bridge
 
 ## 制造业 
+- Tesla (看在musk的面子上，还是加进来吧，加班有点凶，自己考虑)
 - 蔚来汽车
 - Volkswagen 德国大众
 - BMW
