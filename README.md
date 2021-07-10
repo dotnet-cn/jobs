@@ -54,6 +54,7 @@
 - [中通快递](http://www.zto.com)
 - 顺丰快递
 - Transfinder
+- DNV 挪威船级社
 
 ## 建筑/安防
 - Honeywell
