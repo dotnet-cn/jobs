@@ -104,6 +104,7 @@
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer
 - Elekta 医科达
+- Merck Group
 
 ## 人力资源
 - Mercer
