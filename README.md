@@ -56,7 +56,7 @@
 - Transfinder
 - DNV 挪威船级社
 
-## 建筑/安防
+## 建筑/安防/环境
 - Honeywell
 - Bosch 博世
 - Bureau Veritas 必维国际
@@ -66,6 +66,7 @@
 - 天华建筑设计
 - 蓝色星球
 - Autodesk
+- [DHI Group](https://www.dhigroup.com)
 
 ## 金融
 - 东方财富
