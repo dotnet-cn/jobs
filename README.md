@@ -85,6 +85,7 @@
 ## 制造业 
 - Tesla (看在musk的面子上，还是加进来吧，加班有点凶，自己考虑)
 - 蔚来汽车 NIO
+- 吉利汽车
 - Volkswagen 德国大众
 - BMW
 - Dow
