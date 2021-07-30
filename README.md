@@ -107,6 +107,7 @@
 - Radiometer
 - Elekta 医科达
 - Merck Group
+- 上海京颐科技
 
 ## 人力资源
 - Mercer
