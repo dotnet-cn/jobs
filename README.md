@@ -89,6 +89,7 @@
 - 万得 Wind
 - Opliver
 - Third Bridge
+- 花旗金融
 
 ## 制造业 
 - Tesla (看在musk的面子上，还是加进来吧，加班有点凶，自己考虑)
