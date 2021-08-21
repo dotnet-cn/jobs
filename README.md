@@ -74,6 +74,7 @@
 - 蓝色星球
 - Autodesk
 - [DHI Group](https://www.dhigroup.com)
+- 百联资管
 
 ## 金融
 - 东方财富
@@ -124,4 +125,3 @@
 - Walmart
 - 英孚教育
 - 朗鹰教育
-
