@@ -38,9 +38,10 @@
 - 博彦科技
 - 文思海辉
 - [上海元趣](http://www.yuanqutech.com/)
-- 惠普
+- HPE 惠普
 - 国双科技 Gridsum
 - Cimpress
+- 黑瞳科技
 
 ## 互联网/游戏
 - 网易游戏
