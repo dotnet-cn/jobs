@@ -75,7 +75,7 @@
 - 蓝色星球
 - Autodesk
 - [DHI Group](https://www.dhigroup.com)
-- 百联资管
+- 百联资控
 
 ## 金融
 - 东方财富
@@ -104,7 +104,6 @@
 - [seismic](https://seismic.com/)
 - Unilever 联合利华
 - National Instruments 美国国家仪器
-- 北京金隅集团 (股票代码:601992)
 - ZEISS Group
 - Teradyne
 - 西门子
