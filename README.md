@@ -39,8 +39,7 @@
 - 文思海辉
 - [上海元趣](http://www.yuanqutech.com/)
 - HPE 惠普
-- 国双科技 Gridsum
-- Cimpress
+- YSD 云尚定 (Cimpress中国)
 - 黑瞳科技
 
 ## 互联网
