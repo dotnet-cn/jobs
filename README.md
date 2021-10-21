@@ -120,6 +120,7 @@
 - Elekta 医科达
 - Merck Group
 - 上海京颐科技
+- 复星诊断
 
 ## 人力资源
 - Mercer
