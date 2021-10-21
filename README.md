@@ -56,6 +56,7 @@
 - 同城艺龙
 - 西窗科技（原微软msn，已私有化）
 - 31会议
+- Stubhub （已被viagogo收购）
 
 ## 运输物流
 - [中通快递](http://www.zto.com)
