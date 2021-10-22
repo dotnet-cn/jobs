@@ -18,8 +18,8 @@
 
 # 目前正在使用.NET的公司 
 ## 软件/咨询
-- Nuance
-- Avanade
+- Nuance (已被微软收购)
+- Avanade 
 - Accenture
 - PwC
 - Infosys
@@ -114,7 +114,7 @@
 
 ## 医疗
 - 费森尤斯医疗
-- PerkinElmer
+- 珀金埃尔默 PerkinElmer
 - 赛诺菲 Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer
@@ -124,6 +124,7 @@
 - 复星诊断
 - 药明康德
 - 艾莎医学
+- 上海联影
 
 ## 人力资源
 - 美世咨询 Mercer
