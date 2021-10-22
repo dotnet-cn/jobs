@@ -66,6 +66,7 @@
 - Transfinder
 - DNV 挪威船级社
 - 上海胜境网络
+- 递易
 
 ## 建筑/安防/环境
 - Honeywell
@@ -110,7 +111,6 @@
 - 美国国家仪器 National Instruments 
 - ZEISS Group
 - Teradyne
-- 西门子 
 
 ## 医疗
 - 费森尤斯医疗
@@ -125,6 +125,8 @@
 - 药明康德
 - 艾莎医学
 - 上海联影
+- 西门子
+- 飞利浦 
 
 ## 人力资源
 - 美世咨询 Mercer
