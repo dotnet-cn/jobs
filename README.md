@@ -52,6 +52,7 @@
 - 西窗科技（原微软msn，已私有化）
 - 31会议
 - Stubhub （已被viagogo收购）
+- iHerb
 
 ## 游戏
 - 5173
@@ -93,39 +94,44 @@
 - Opliver
 - Third Bridge
 - 花旗金融
+- 野村证券
 
 ## 制造业 
-- Tesla 
+- 特斯拉 Tesla 
 - 蔚来汽车 NIO
 - 吉利汽车
-- Volkswagen 德国大众
-- BMW
-- Dow
-- DJI
+- 德国大众 Volkswagen 
+- 宝马 BMW 
+- 陶氏化学 Dow 
+- 大疆 DJI
 - [Aspen Technology](https://www.aspentech.com/)
 - [seismic](https://seismic.com/)
-- Unilever 联合利华
-- National Instruments 美国国家仪器
+- 联合利华 Unilever 
+- 美国国家仪器 National Instruments 
 - ZEISS Group
 - Teradyne
-- 西门子
+- 西门子 
 
 ## 医疗
 - 费森尤斯医疗
 - PerkinElmer
-- Sanofi
+- 赛诺菲 Sanofi
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer
-- Elekta 医科达
+- 医科达 Elekta 
 - Merck Group
 - 上海京颐科技
 - 复星诊断
+- 药明康德
+- 艾莎医学
 
 ## 人力资源
-- Mercer
+- 美世咨询 Mercer
+- 肯耐珂萨 Kenexa
 
 ## 其他
 - 中青旅
-- Walmart
-- 英孚教育
+- 沃尔玛 Walmart
+- 英孚教育 EF Education
 - 朗鹰教育
+- SGS
