@@ -19,12 +19,10 @@
 # 目前正在使用.NET的公司 
 ## 软件/咨询
 - Nuance (已被微软收购)
-- Avanade 
-- Accenture
+- Accenture/Avanade
 - PwC
 - Infosys
 - Cognizant
-- HP
 - Selerant
 - [AON Hewitt](http://www.aon.com)
 - Infor
@@ -41,6 +39,7 @@
 - HPE 惠普
 - YSD 云尚定 (Cimpress中国)
 - 黑瞳科技
+- [seismic](https://seismic.com/)
 
 ## 互联网
 - 活动行
@@ -72,7 +71,6 @@
 - Honeywell
 - Bosch 博世
 - Bureau Veritas 必维国际
-- Siemens 西门子
 - [广联达](https://www.glodon.com/)
 - 龙湖集团
 - 天华建筑设计
@@ -83,12 +81,12 @@
 
 ## 金融
 - 东方财富
-- Morgan Stanley 摩根斯坦利
-- UBS
+- 摩根斯坦利 Morgan Stanley
+- 瑞银 UBS
 - 西部证券 
 - 招商银行
 - GreenDot
-- Fnz
+- FNZ
 - Beta财富
 - 浮石投资
 - 万得 Wind
@@ -98,19 +96,25 @@
 - 野村证券
 
 ## 制造业 
+- Siemens 西门子
+- 大疆 DJI
+- 美的 Midea
+- 美国国家仪器 National Instruments 
+- 蔡司 ZEISS Group
+- Teradyne
+
+### 汽车
 - 特斯拉 Tesla 
 - 蔚来汽车 NIO
 - 吉利汽车
 - 德国大众 Volkswagen 
 - 宝马 BMW 
+- 上汽集团
+
+### 日化/化工
 - 陶氏化学 Dow 
-- 大疆 DJI
 - [Aspen Technology](https://www.aspentech.com/)
-- [seismic](https://seismic.com/)
 - 联合利华 Unilever 
-- 美国国家仪器 National Instruments 
-- ZEISS Group
-- Teradyne
 
 ## 医疗
 - 费森尤斯医疗
