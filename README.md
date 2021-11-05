@@ -5,7 +5,7 @@
 # 社群
 电报：https://t.me/cnnug
 
-微信（进入扫二维码）：https://github.com/dotnet-cn/jobs/wiki
+微信：已闭群（建议加电报群）
 
 # 职位与自荐专栏
 专门给猎头、HR和希望找工作的小伙伴开的repo
