@@ -19,14 +19,14 @@
 # 目前正在使用.NET的公司 
 ## 软件/咨询
 - Nuance (已被微软收购)
-- Accenture/Avanade
+- Accenture/Avanade [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - PwC
 - Infosys
 - Cognizant
 - Selerant
 - [AON Hewitt](http://www.aon.com)
 - Infor
-- 微软
+- 微软 
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 明源云
 - 微创软件
