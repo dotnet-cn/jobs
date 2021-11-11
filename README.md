@@ -20,7 +20,8 @@
 ## 软件/咨询
 - Nuance (已被微软收购)
 - Accenture/Avanade [新职位](https://github.com/dotnet-cn/jobs/issues/10)
-- PwC
+- TEKsystems
+- PwC 
 - Infosys
 - Cognizant
 - Selerant
@@ -40,7 +41,6 @@
 - YSD 云尚定 (Cimpress中国)
 - 黑瞳科技
 - [seismic](https://seismic.com/)
-- Teksystems
 
 ## 互联网
 - 活动行
