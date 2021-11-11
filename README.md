@@ -96,7 +96,7 @@
 - 野村证券
 
 ## 制造业 
-- Siemens 西门子
+- 西门子 Siemens 
 - 大疆 DJI
 - 美的 Midea
 - 美国国家仪器 National Instruments 
