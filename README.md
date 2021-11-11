@@ -104,7 +104,7 @@
 - Teradyne
 
 ### 汽车
-- 特斯拉 Tesla 
+- 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) 
 - 蔚来汽车 NIO
 - 吉利汽车
 - 德国大众 Volkswagen 
