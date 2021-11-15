@@ -39,7 +39,7 @@
 - [上海元趣](http://www.yuanqutech.com/)
 - HPE 惠普
 - YSD 云尚定 (Cimpress中国)
-- 黑瞳科技
+- 黑瞳科技 (公安反诈骗app就是这家做的，后台是.net core)
 - [seismic](https://seismic.com/)
 
 ## 互联网
@@ -50,9 +50,8 @@
 - IT之家
 - 同城艺龙
 - 西窗科技（原微软msn，已私有化）
-- 31会议
+- 31会议 (小道消息，2021年因某互联网厂拖项目款发生过短期欠薪)
 - Stubhub （已被viagogo收购）
-- iHerb
 
 ## 游戏
 - 5173
