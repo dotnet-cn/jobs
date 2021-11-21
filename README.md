@@ -32,21 +32,21 @@
 - 明源云 - 武汉
 - 微创软件 - 上海
 - Optimum System (奥解思)
-- [扩博智能](https://www.clobotics.com/)
+- [扩博智能](https://www.clobotics.com/) - 上海
 - LexisNexis - 上海
 - 博彦科技
 - 文思海辉
 - [上海元趣](http://www.yuanqutech.com/) - 上海
-- HPE 惠普
+- HPE 惠普 - 上海
 - YSD 云尚定 (Cimpress中国) - 上海
-- 黑瞳科技 (公安反诈骗app就是这家做的，后台是.net core) - 上海
+- 黑瞳科技 - 上海
 - [seismic](https://seismic.com/)  - 上海
 
 ## 互联网
-- 活动行
-- 智联招聘
+- 活动行 - 上海
+- 智联招聘 - 上海
 - 文创互娱 - 上海
-- 58同城
+- 58同城 - 上海
 - IT之家
 - 同城艺龙
 - 西窗科技（原微软msn，已私有化） - 上海
@@ -61,7 +61,7 @@
 
 ## 运输物流
 - [中通快递](http://www.zto.com) - 上海
-- 顺丰快递 
+- 顺丰快递 - 上海
 - Transfinder - 上海
 - DNV 挪威船级社 - 上海
 - 上海胜境网络 - 上海
