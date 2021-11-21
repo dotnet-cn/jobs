@@ -21,8 +21,8 @@
 - Nuance (已被微软收购)
 - Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - TEKsystems  - 上海/广州/北京
-- PwC - 上海
-- Infosys
+- PwC - 上海/北京
+- Infosys - 上海
 - Cognizant - 上海
 - Selerant 上海
 - [AON Hewitt](http://www.aon.com) 上海
@@ -81,7 +81,7 @@
 
 ## 金融
 - 东方财富- 上海
-- 摩根斯坦利 Morgan Stanley
+- 摩根斯坦利 Morgan Stanley - 上海
 - 瑞银 UBS - 上海
 - 西部证券 - 上海
 - 招商银行 - 上海
@@ -92,7 +92,7 @@
 - 万得 Wind - 上海
 - Opliver - 上海
 - Third Bridge - 上海
-- 花旗金融 - 上海
+- CSTC 花旗金融 - 上海
 - 野村证券 - 上海
 
 ## 制造业 
