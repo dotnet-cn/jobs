@@ -3,9 +3,9 @@
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
 # 社群
-电报：https://t.me/cnnug
+微信：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
-微信：已闭群（建议加电报群）
+电报：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
 
 # 职位与自荐专栏
 专门给猎头、HR和希望找工作的小伙伴开的repo
@@ -19,28 +19,28 @@
 # 目前正在使用.NET的公司 
 ## 软件/咨询
 - Nuance (已被微软收购)
-- Accenture/Avanade [新职位](https://github.com/dotnet-cn/jobs/issues/10)
-- TEKsystems
+- Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
+- TEKsystems 
 - PwC 
 - Infosys
 - Cognizant
-- Selerant
-- [AON Hewitt](http://www.aon.com)
+- Selerant 上海
+- [AON Hewitt](http://www.aon.com) 上海
 - Infor
-- 微软 
+- 微软 - 上海/苏州/北京
 - [华钦科技CLPS](http://www.clps.com.cn/)
-- 明源云
-- 微创软件
+- 明源云 - 武汉
+- 微创软件 - 上海
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/)
-- LexisNexis
+- LexisNexis - 上海
 - 博彦科技
 - 文思海辉
-- [上海元趣](http://www.yuanqutech.com/)
+- [上海元趣](http://www.yuanqutech.com/) - 上海
 - HPE 惠普
-- YSD 云尚定 (Cimpress中国)
-- 黑瞳科技 (公安反诈骗app就是这家做的，后台是.net core)
-- [seismic](https://seismic.com/)
+- YSD 云尚定 (Cimpress中国) - 上海
+- 黑瞳科技 (公安反诈骗app就是这家做的，后台是.net core) - 上海
+- [seismic](https://seismic.com/)  - 上海
 
 ## 互联网
 - 活动行
@@ -49,9 +49,9 @@
 - 58同城
 - IT之家
 - 同城艺龙
-- 西窗科技（原微软msn，已私有化）
+- 西窗科技（原微软msn，已私有化） - 上海
 - 31会议 (小道消息，2021年因某互联网厂拖项目款发生过短期欠薪)
-- Stubhub （已被viagogo收购）
+- Stubhub （已被viagogo收购） - 上海
 
 ## 游戏
 - 5173
