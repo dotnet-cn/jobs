@@ -75,7 +75,7 @@
 - 龙湖集团 - 上海
 - 天华建筑设计 - 上海
 - 蓝色星球
-- Autodesk- 上海
+- Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 - 百联资控- 上海
 
