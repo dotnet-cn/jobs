@@ -21,7 +21,7 @@
 - Nuance (已被微软收购)
 - Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - TEKsystems  - 上海/广州/北京
-- PwC - 上海/北京
+- PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
 - Selerant 上海
@@ -43,6 +43,7 @@
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
 - 美伊科技 - 武汉
+- WuXi AppTec - 成都
 
 ## 互联网
 - 活动行 - 上海
@@ -52,13 +53,13 @@
 - IT之家
 - 同城艺龙
 - 西窗科技（原微软msn，已私有化） - 上海
-- 31会议 (小道消息，2021年因某互联网厂拖项目款发生过短期欠薪)
+- 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海
 
 ## 游戏
 - 5173 - 上海
 - EA - 上海
-- Ubisoft - 上海
+- Ubisoft - 上海/成都
 - 网易游戏
 
 ## 运输物流
@@ -96,9 +97,11 @@
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海
 - 野村证券 - 上海
+- Global Payments - 成都
 
 ## 制造业 
-- 西门子 Siemens - 上海
+- Intel - 上海/成都
+- 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
 - 美的 Midea
 - 美国国家仪器 National Instruments 
