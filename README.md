@@ -61,6 +61,7 @@
 - EA - 上海
 - Ubisoft - 上海/成都
 - 网易游戏
+- Virtuos Games - 成都
 
 ## 运输物流
 - [中通快递](http://www.zto.com) - 上海
