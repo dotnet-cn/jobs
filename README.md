@@ -108,6 +108,7 @@
 - 美国国家仪器 National Instruments 
 - 蔡司 ZEISS Group - 上海/广州
 - Teradyne 
+- 飞利浦 - 上海/成都
 
 ### 汽车
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
@@ -135,8 +136,6 @@
 - 药明康德 - 上海
 - 艾莎医学
 - 上海联影 - 上海
-- 西门子 - 上海
-- 飞利浦 
 
 ## 人力资源
 - 美世咨询 Mercer - 上海
