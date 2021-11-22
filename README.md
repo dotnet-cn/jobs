@@ -41,6 +41,7 @@
 - YSD 云尚定 (Cimpress中国) - 上海
 - 黑瞳科技 - 上海
 - [seismic](https://seismic.com/)  - 上海
+- 成都科来 - 成都
 
 ## 互联网
 - 活动行 - 上海
