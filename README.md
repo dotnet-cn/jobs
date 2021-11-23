@@ -8,9 +8,9 @@
 电报：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
 
 # 职位与自荐专栏
-专门给HR和希望找工作的小伙伴开的repo，请务必Watch这个repo，以方便日后获得新职位推送
+给HR和希望找工作的小伙伴开的repo，请务必Watch这个repo，以方便日后获得新职位推送
 
-有新职位可以去Issues栏目直接开Issue。
+有新职位可以去Issues栏目直接开Issue，注明简历投递邮箱。
 
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/en_US)
 
@@ -44,6 +44,7 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - WuXi AppTec - 成都
+- 复盖信息 - 上海/西安
 
 ## 互联网
 - 活动行 - 上海
@@ -55,6 +56,7 @@
 - 西窗科技（原微软msn，已私有化） - 上海
 - 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海
+- [本来生活网](www.benlai.com) - 上海
 
 ## 游戏
 - 5173 - 上海
