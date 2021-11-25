@@ -143,9 +143,12 @@
 - 美世咨询 Mercer - 上海
 - 肯耐珂萨 Kenexa - 上海
 
+## 零售
+- 农工商超市 NGS Supermarket - 上海
+- 沃尔玛 Walmart- 上海
+
 ## 其他
 - 中青旅
-- 沃尔玛 Walmart- 上海
 - 英孚教育 EF Education - 上海
 - 朗鹰教育 - 上海
 - SGS - 上海
