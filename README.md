@@ -64,6 +64,7 @@
 - Ubisoft - 上海/成都
 - 网易游戏
 - Virtuos Games - 成都
+- 福禄网络 - 武汉
 
 ## 运输物流
 - [中通快递](http://www.zto.com) - 上海
@@ -83,7 +84,6 @@
 - 蓝色星球
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
-- 百联资控- 上海
 
 ## 金融
 - 东方财富- 上海
