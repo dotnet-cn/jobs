@@ -45,6 +45,7 @@
 - 美伊科技 - 武汉
 - WuXi AppTec - 成都
 - 复盖信息 - 上海/西安
+- 程析智能 - 上海
 
 ## 互联网
 - 活动行 - 上海
@@ -131,7 +132,7 @@
 - 珀金埃尔默 PerkinElmer - 上海
 - 赛诺菲 Sanofi - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
-- Radiometer
+- Radiometer - 上海
 - 医科达 Elekta - 上海
 - Merck Group 
 - 上海京颐科技 - 上海
