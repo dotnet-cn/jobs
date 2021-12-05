@@ -20,7 +20,6 @@
 ## 软件/咨询
 - Nuance (已被微软收购)
 - Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
-- TEKsystems  - 上海/广州/北京
 - PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
@@ -30,12 +29,9 @@
 - 微软 - 上海/苏州/北京
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 明源云 - 武汉
-- 微创软件 - 上海
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/) - 上海
 - LexisNexis - 上海
-- 博彦科技
-- 文思海辉
 - [上海元趣](http://www.yuanqutech.com/) - 上海
 - HPE 惠普 - 上海
 - YSD 云尚定 (Cimpress中国) - 上海
@@ -44,6 +40,15 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - WuXi AppTec - 成都
+- 行云创新 - 广东/上海
+
+### 软件外包
+- TEKsystems  - 上海/广州/北京
+- 博彦科技
+- 文思海辉
+- 微创软件 - 上海
+
+### 制造业ERP
 - 复盖信息 - 上海/西安
 - 程析智能 - 上海
 
