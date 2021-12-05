@@ -57,6 +57,7 @@
 - 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海
 - [本来生活网](www.benlai.com) - 上海
+- iHerb - 台北/上海/Irvine, CA 
 
 ## 游戏
 - 5173 - 上海
@@ -69,8 +70,8 @@
 ## 运输物流
 - [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
-- Transfinder - 上海
-- DNV 挪威船级社 - 上海
+- Transfinder - 上海/Austin, TX
+- DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
 - 递易 - 上海
 
