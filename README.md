@@ -1,7 +1,3 @@
-# 面试准备
-
-各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
-
 # 社群
 微信：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
@@ -15,6 +11,10 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/en_US)
 
 由于.NET天生是基本不加班的语言，本列表支持996.icu运动，会参考[955公司列表](https://github.com/formulahendry/955.WLB)和[996公司列表](https://github.com/996icu/996.ICU)
+
+### 面试准备
+
+各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
 # 目前正在使用.NET的公司 
 ## 软件/咨询
