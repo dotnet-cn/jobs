@@ -31,7 +31,6 @@
 - [扩博智能](https://www.clobotics.com/) - 上海
 - LexisNexis - 上海
 - HPE 惠普 - 上海
-- YSD 云尚定 (Cimpress中国) - 上海
 - 黑瞳科技 - 上海
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
@@ -116,18 +115,19 @@
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
 - 美的 Midea
-- 美国国家仪器 National Instruments 
+- 美国国家仪器 National Instruments - 上海
 - 蔡司 ZEISS Group - 上海/广州
-- Teradyne 
+- Teradyne - 上海
 - 飞利浦 - 上海/成都
 - 农夫山泉 - 宁波
 - 雀巢 - 武汉/北京
+- YSD 云尚定 (Cimpress中国) - 上海
 
 ### 汽车
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
 - 蔚来汽车 NIO - 上海
 - 吉利汽车 
-- 德国大众 Volkswagen 
+- 德国大众 Volkswagen  - 北京
 - 宝马 BMW - 上海/北京
 - 上汽集团 - 上海
 
