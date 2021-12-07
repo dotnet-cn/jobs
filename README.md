@@ -16,8 +16,8 @@
 
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
-# 目前正在使用.NET的公司 
-## 软件/咨询
+# 目前正在使用.NET的公司 Companies using .NET in China
+## 软件/咨询 Software/Consulting
 - Nuance (已被微软收购)
 - Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - PwC - 上海/成都
@@ -39,7 +39,7 @@
 - [上海元趣](http://www.yuanqutech.com/) - 上海
 - 行云创新 - 广东/上海
 
-### 软件外包
+### 软件外包 Outsourcing
 - TEKsystems  - 上海/广州/北京
 - EPAM - 上海
 - 博彦科技
@@ -47,13 +47,13 @@
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
 
-### ERP厂
+### ERP厂 ERP Software
 - Infor - 上海
 - 复盖信息 - 上海/西安
 - 程析智能 - 上海
 - 用友 - 武汉/南昌/上海/北京/广东
 
-## 互联网
+## 互联网 Internet
 - 活动行 - 上海
 - 智联招聘 - 上海
 - 文创互娱 - 上海
@@ -66,7 +66,7 @@
 - [本来生活网](www.benlai.com) - 上海
 - iHerb - 台北/上海/Irvine
 
-## 游戏
+## 游戏 Games
 - 5173 - 上海
 - EA - 上海
 - Ubisoft - 上海/成都
@@ -74,7 +74,7 @@
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
 
-## 运输物流
+## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
 - Transfinder - 上海/Austin
@@ -82,7 +82,7 @@
 - 上海胜境网络 - 上海
 - 递易 - 上海
 
-## 建筑/安防/环境
+## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
 - Bosch 博世 - 上海
 - Bureau Veritas 必维国际 - 上海
@@ -93,7 +93,7 @@
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 
-## 金融
+## 金融 Finance
 - 东方财富- 上海
 - 摩根斯坦利 Morgan Stanley - 上海
 - 瑞银 UBS - 上海
@@ -110,7 +110,7 @@
 - 野村证券 - 上海
 - Global Payments - 成都
 
-## 制造业 
+## 制造业 Manufacturing
 - Intel - 上海/成都
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
@@ -123,7 +123,7 @@
 - 雀巢 - 武汉/北京
 - YSD 云尚定 (Cimpress中国) - 上海
 
-### 汽车
+### 汽车 Automobile
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
 - 蔚来汽车 NIO - 上海
 - 吉利汽车 
@@ -131,12 +131,12 @@
 - 宝马 BMW - 上海/北京
 - 上汽集团 - 上海
 
-### 日化/化工
+### 日化/化工 Daily Chemical/Chemical Engineering
 - 陶氏化学 Dow - 上海/张家港
 - [Aspen Technology](https://www.aspentech.com/)- 上海
 - 联合利华 Unilever - 上海/合肥
 
-## 医疗
+## 制药/医疗设备 Pharmacy/Medical Devices
 - 费森尤斯医疗
 - 珀金埃尔默 PerkinElmer - 上海
 - 赛诺菲 Sanofi - 上海
@@ -151,20 +151,20 @@
 - 上海联影 - 上海
 - Roche 罗氏 - 上海/Rotkreuz 
 
-## 人力资源
+## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
 - 肯耐珂萨 Kenexa - 上海
 
-## 零售
+## 零售 Retail
 - 农工商超市 NGS Supermarket - 上海
 - 沃尔玛 Walmart- 上海
 
-## 教育
+## 教育 Education
 - 英孚教育 EF Education - 上海
 - 朗鹰教育 - 上海
 - 北京乐教乐学
 
-## 其他
+## 其他 Others
 - SGS - 上海
 - 中青旅
 - 
