@@ -48,10 +48,11 @@
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
 
-### 制造业ERP
+### ERP厂
 - Infor - 上海
 - 复盖信息 - 上海/西安
 - 程析智能 - 上海
+- 用友 - 武汉/南昌/上海/北京/广东
 
 ## 互联网
 - 活动行 - 上海
@@ -64,7 +65,7 @@
 - 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海
 - [本来生活网](www.benlai.com) - 上海
-- iHerb - 台北/上海/Irvine, CA 
+- iHerb - 台北/上海/Irvine
 
 ## 游戏
 - 5173 - 上海
@@ -77,7 +78,7 @@
 ## 运输物流
 - [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
-- Transfinder - 上海/Austin, TX
+- Transfinder - 上海/Austin
 - DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
 - 递易 - 上海
@@ -119,6 +120,8 @@
 - 蔡司 ZEISS Group - 上海/广州
 - Teradyne 
 - 飞利浦 - 上海/成都
+- 农夫山泉 - 宁波
+- 雀巢 - 武汉/北京
 
 ### 汽车
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
@@ -129,9 +132,9 @@
 - 上汽集团 - 上海
 
 ### 日化/化工
-- 陶氏化学 Dow - 上海
+- 陶氏化学 Dow - 上海/张家港
 - [Aspen Technology](https://www.aspentech.com/)- 上海
-- 联合利华 Unilever - 上海
+- 联合利华 Unilever - 上海/合肥
 
 ## 医疗
 - 费森尤斯医疗
