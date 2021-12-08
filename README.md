@@ -81,6 +81,7 @@
 - DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
 - 递易 - 上海
+- 凯乐士 - 武汉
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
