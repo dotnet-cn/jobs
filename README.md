@@ -1,3 +1,11 @@
+# 如何使用这个repo
+
+务必开启Watch功能，本repo充分利用github本身的通知功能，Issue会定期更新职位，即使被墙也同样能收到Issue邮件。
+![image](https://user-images.githubusercontent.com/772561/145287519-285bfde6-e0d2-44e3-8149-cc927a5a60a0.png)
+
+
+我们的口号是找.NET职位跟做开源项目一样简单，订阅就行。
+
 # 社群
 微信：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
