@@ -31,7 +31,6 @@
 - PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
-- Selerant 上海
 - [AON Hewitt](http://www.aon.com) 上海
 - 微软 - 上海/苏州/北京
 - 明源云 - 武汉
