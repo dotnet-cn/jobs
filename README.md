@@ -7,9 +7,12 @@
 我们的口号是找.NET职位跟做开源项目一样简单，订阅就行。
 
 # 社群
-微信：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
-电报：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
+社区活动订阅：https://www.meetup.com/shanghai-nug/ （疫情期间基本线上）
+
+微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
+
+电报群：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
 
 # 职位与自荐专栏
 给HR和希望找工作的小伙伴开的repo，请务必Watch这个repo，以方便日后获得新职位推送
