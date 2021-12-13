@@ -72,7 +72,7 @@
 - 同城艺龙
 - 西窗科技（原微软msn，已私有化） - 上海
 - 31会议 - 上海
-- Stubhub （已被viagogo收购） - 上海
+- Stubhub （已被viagogo收购） - 上海/Genève
 - [本来生活网](www.benlai.com) - 上海
 - iHerb - 台北/上海/Irvine
 
