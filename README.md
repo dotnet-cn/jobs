@@ -48,6 +48,7 @@
 - WuXi AppTec - 成都
 - [上海元趣](http://www.yuanqutech.com/) - 上海
 - 行云创新 - 广东/上海
+- 北森云计算 - 成都
 
 ### 软件外包 Outsourcing
 - TEKsystems  - 上海/广州/北京
@@ -178,4 +179,3 @@
 ## 其他 Others
 - SGS - 上海
 - 中青旅
-- 
