@@ -29,7 +29,6 @@
 
 # 目前正在使用.NET的公司 Companies using .NET in China
 ## 软件/咨询 Software/Consulting
-- Nuance (已被微软收购)
 - Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - PwC - 上海/成都
 - Infosys - 上海
@@ -49,6 +48,7 @@
 - [上海元趣](http://www.yuanqutech.com/) - 上海
 - 行云创新 - 广东/上海
 - 北森云计算 - 成都
+- Thoughtworks - 成都/武汉
 
 ### 软件外包 Outsourcing
 - TEKsystems  - 上海/广州/北京
@@ -57,6 +57,7 @@
 - 文思海辉
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
+- Objectiva 奥博杰天 - 成都/西安
 
 ### ERP厂 ERP Software
 - Infor - 上海
@@ -104,9 +105,10 @@
 - 蓝色星球
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
+- 基准方中建筑设计 - 成都
 
 ## 金融 Finance
-- 东方财富- 上海
+- 东方财富- 上海/成都
 - 摩根斯坦利 Morgan Stanley - 上海
 - 瑞银 UBS - 上海
 - 西部证券 - 上海
@@ -134,11 +136,12 @@
 - 农夫山泉 - 宁波
 - 雀巢 - 武汉/北京
 - YSD 云尚定 (Cimpress中国) - 上海
+- Geely 吉利科技 - 成都/重庆
+- Jabil 捷普科技 - 成都
 
 ### 汽车 Automobile
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
 - 蔚来汽车 NIO - 上海
-- 吉利汽车 
 - 德国大众 Volkswagen  - 北京
 - 宝马 BMW - 上海/北京
 - 上汽集团 - 上海
@@ -175,6 +178,7 @@
 - 英孚教育 EF Education - 上海
 - 朗鹰教育 - 上海
 - 北京乐教乐学
+- 麦可思 - 成都/北京
 
 ## 其他 Others
 - SGS - 上海
