@@ -77,6 +77,7 @@
 - Stubhub （已被viagogo收购） - 上海/Genève
 - [本来生活网](www.benlai.com) - 上海
 - iHerb - 台北/上海/Irvine
+- 好医生云医疗 - 成都
 
 ## 游戏 Games
 - 5173 - 上海
