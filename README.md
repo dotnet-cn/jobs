@@ -139,6 +139,7 @@
 - YSD 云尚定 (Cimpress中国) - 上海
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
+- MediaTek 联发科 - 合肥
 
 ### 汽车 Automobile
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
