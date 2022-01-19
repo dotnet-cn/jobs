@@ -49,6 +49,7 @@
 - 行云创新 - 广东/上海
 - 北森云计算 - 成都
 - Thoughtworks - 成都/武汉
+- Laserfiche - 上海
 
 ### 软件外包 Outsourcing
 - TEKsystems  - 上海/广州/北京
