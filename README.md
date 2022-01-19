@@ -108,6 +108,7 @@
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 - 基准方中建筑设计 - 成都
+- Schneider Electric - 上海
 
 ## 金融 Finance
 - 东方财富- 上海/成都
