@@ -143,6 +143,7 @@
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
+- 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
 
 ### 汽车 Automobile
 - 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
