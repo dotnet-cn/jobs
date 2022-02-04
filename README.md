@@ -79,7 +79,7 @@
 - [本来生活网](www.benlai.com) - 上海
 - iHerb - 台北/上海/Irvine
 - 好医生云医疗 - 成都
-- Pacvue - 上海/无锡
+- Pacvue - 无锡
 
 ## 游戏 Games
 - 5173 - 上海
