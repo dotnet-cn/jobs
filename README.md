@@ -163,6 +163,7 @@
 - 艾莎医学
 - 上海联影 - 上海
 - Roche 罗氏 - 上海/Rotkreuz 
+- 上海清赟医药 - 上海
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
