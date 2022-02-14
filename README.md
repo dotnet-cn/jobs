@@ -138,7 +138,7 @@
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
 
 ### 汽车 Automobile
-- 特斯拉 Tesla [新职位](https://github.com/dotnet-cn/jobs/issues/12) - 上海
+- 特斯拉 Tesla - 上海
 - 蔚来汽车 NIO - 上海
 - 德国大众 Volkswagen  - 北京
 - 宝马 BMW - 上海/北京
