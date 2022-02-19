@@ -54,7 +54,6 @@
 
 ### ERP厂 ERP Software
 - Infor - 上海
-- 盖勒普中国 - 上海/西安
 - 程析智能 - 上海
 - 用友 - 武汉/南昌/上海/北京/广东
 
@@ -69,7 +68,6 @@
 - 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
 - [本来生活网](www.benlai.com) - 上海
-- iHerb - 台北/上海/Irvine
 - 好医生云医疗 - 成都
 - Pacvue - 无锡
 
