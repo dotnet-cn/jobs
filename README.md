@@ -134,6 +134,7 @@
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
+- Tetra Pak - 上海
 
 ### 汽车 Automobile
 - 特斯拉 Tesla - 上海
