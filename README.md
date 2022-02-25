@@ -87,6 +87,7 @@
 - 上海胜境网络 - 上海
 - 递易 - 上海
 - 凯乐士 - 武汉
+- TGW Group - 上海
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
