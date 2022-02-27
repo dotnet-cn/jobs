@@ -20,7 +20,6 @@
 
 # 目前正在使用.NET的公司 Companies using .NET in China
 ## 软件/咨询 Software/Consulting
-- Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
@@ -36,21 +35,21 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - WuXi AppTec - 成都
-- [上海元趣](http://www.yuanqutech.com/) - 上海
 - 行云创新 - 广东/上海
 - 北森云计算 - 成都
 - Thoughtworks - 成都/武汉
 - Laserfiche - 上海
 - SSW - 杭州
 
-### 软件外包 Outsourcing
+### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
+- Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
 - EPAM - 上海
-- 博彦科技
-- 文思海辉
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
 - Objectiva 奥博杰天 - 成都/西安
+- 博彦科技
+- 文思海辉
 
 ### ERP厂 ERP Software
 - Infor - 上海
