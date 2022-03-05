@@ -167,6 +167,7 @@
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
 - 肯耐珂萨 Kenexa - 上海
+- Kincentric - 上海
 
 ## 零售 Retail
 - 农工商超市 NGS Supermarket - 上海
