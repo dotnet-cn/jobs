@@ -144,7 +144,7 @@
 - 上汽集团 - 上海
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
-- 陶氏化学 Dow - 上海/张家港
+- 陶氏化学 Dow - 上海/张家港 （不建议去DMC部门，有坑）
 - [Aspen Technology](https://www.aspentech.com/)- 上海
 - 联合利华 Unilever - 上海/合肥
 
