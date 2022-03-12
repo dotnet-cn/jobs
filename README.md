@@ -43,7 +43,7 @@
 
 ### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
-- Accenture/Avanade 上海/北京/大连 [新职位](https://github.com/dotnet-cn/jobs/issues/10)
+- Accenture/Avanade 上海/北京/大连 
 - EPAM - 上海
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
