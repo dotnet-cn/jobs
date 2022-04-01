@@ -77,7 +77,7 @@
 - 网易游戏
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
-- PlayerAuction - 上海
+- PlayerAuctions - 上海
 
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
