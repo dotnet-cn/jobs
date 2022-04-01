@@ -53,7 +53,7 @@
 
 ### ERP厂 ERP Software
 - Infor - 上海
-- 程析智能 - 上海
+- 程析智能 - 上海 (资金链出现问题)
 - 用友 - 武汉/南昌/上海/北京/广东
 
 ## 互联网 Internet
@@ -77,6 +77,7 @@
 - 网易游戏
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
+- PlayerAuction - 上海
 
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
