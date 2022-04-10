@@ -113,7 +113,7 @@
 - Beta财富
 - 浮石投资
 - 万得 Wind - 上海
-- Opliver - 上海
+- Optiver - 上海
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海
 - 野村证券 - 上海
