@@ -52,8 +52,9 @@
 - 文思海辉
 
 ### ERP厂 ERP Software
-- Infor - 上海
-- 程析智能 - 上海 (资金链出现问题)
+- Infor - 上海 
+- 程析智能 - 上海 (资金链出现问题，已部分裁员)
+- 聚水潭 - 上海
 - 用友 - 武汉/南昌/上海/北京/广东
 
 ## 互联网 Internet
@@ -71,13 +72,13 @@
 - Pacvue - 无锡
 
 ## 游戏 Games
+- PlayerAuctions - 上海
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 - EA - 上海
 - Ubisoft - 上海/成都
 - 网易游戏
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
-- PlayerAuctions - 上海
 
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
