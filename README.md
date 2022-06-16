@@ -70,6 +70,7 @@
 - [本来生活网](www.benlai.com) - 上海
 - 好医生云医疗 - 成都
 - Pacvue - 无锡
+- 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 
 ## 游戏 Games
 - PlayerAuctions - 上海
