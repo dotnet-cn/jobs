@@ -71,10 +71,11 @@
 - 好医生云医疗 - 成都
 - Pacvue - 无锡
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
-
-## 游戏 Games
+- iHerb - 上海 (2021年底已裁员停招)
 - PlayerAuctions - 上海
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
+
+## 游戏 Games
 - EA - 上海
 - Ubisoft - 上海/成都
 - 网易游戏
