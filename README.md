@@ -122,6 +122,9 @@
 - 野村证券 - 上海
 - Global Payments - 成都
 
+## 农业 Argiculture
+- 雷尼威尔物联网 (农业大脑工程) - 上海
+
 ## 制造业 Manufacturing
 - Intel - 上海/成都
 - 西门子 Siemens - 上海/成都
@@ -137,11 +140,12 @@
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
-- 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
 - Tetra Pak - 上海
 - 凌像科技 Surimage - 杭州
+
+### 钢铁 Steel
+- 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
 - 宝信软件 - 上海
-- 雷尼威尔物联网 - 上海
 
 ### 汽车 Automobile
 - 特斯拉 Tesla - 上海
