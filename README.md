@@ -40,6 +40,7 @@
 - Thoughtworks - 成都/武汉
 - Laserfiche - 上海
 - SSW - 杭州
+- 希亚思 CAC - 上海
 
 ### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
