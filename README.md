@@ -120,7 +120,7 @@
 - Optiver - 上海
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海
-- 野村证券 - 上海
+- 野村证券 Nomura  - 上海
 - Global Payments - 成都
 
 ## 农业 Argiculture
