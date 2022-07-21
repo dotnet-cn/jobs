@@ -78,7 +78,7 @@
 ## 游戏 Games
 - EA - 上海
 - Ubisoft - 上海/成都
-- 网易游戏
+- 网易游戏 Netease Games - 杭州
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
 
@@ -109,6 +109,7 @@
 ## 金融 Finance
 - 东方财富- 上海/成都
 - 摩根斯坦利 Morgan Stanley - 上海
+- 摩根大通 JP Morgan - 上海
 - 瑞银 UBS - 上海
 - 西部证券 - 上海
 - 招商银行 - 上海
@@ -195,7 +196,7 @@
 - 北京乐教乐学
 - 麦可思 - 成都/北京
 
-## 认证 Certificates
+## 认证 Certification
 - SGS - 上海
 
 ## 其他 Others
