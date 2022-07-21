@@ -27,10 +27,10 @@
 - 微软 - 上海/苏州/北京
 - 明源云 - 武汉
 - Optimum System (奥解思)
-- [扩博智能](https://www.clobotics.com/) - 上海
+- [扩博智能](https://www.clobotics.com/) Clobotics - 上海
 - LexisNexis - 上海
 - HPE 惠普 - 上海
-- 黑瞳科技 - 上海
+- 黑瞳科技 - 上海 (出品 公安反诈骗app的公司)
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
 - 美伊科技 - 武汉
