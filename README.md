@@ -35,7 +35,6 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - 行云创新 - 广东/上海
-- 北森云计算 - 成都
 - Thoughtworks - 成都/武汉
 - Laserfiche - 上海
 - SSW - 杭州
@@ -185,6 +184,7 @@
 - 美世咨询 Mercer - 上海
 - 肯耐珂萨 Kenexa - 上海
 - Kincentric - 上海
+- 北森云计算 - 成都 ([已裁员](https://www.zhihu.com/question/49192033))
 
 ## 零售 Retail
 - 农工商超市 NGS Supermarket - 上海
