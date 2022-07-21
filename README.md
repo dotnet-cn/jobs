@@ -70,7 +70,7 @@
 - [本来生活网](http://www.benlai.com) - 上海/北京
 - 好医生云医疗 - 成都
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
-- iHerb - 上海 (2021年底已裁员停招)
+- iHerb - 上海/Irvine (2021年底已裁员停招)
 - Pacvue - 无锡/Seattle
 - PlayerAuctions - 上海 [新职位](https://github.com/dotnet-cn/jobs/issues/24)
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
