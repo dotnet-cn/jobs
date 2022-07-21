@@ -178,7 +178,7 @@
 - 乐护科技 - 上海
 
 ### 新能源 New Energy
-- 特来电（充电桩网络） - 济南
+- 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
