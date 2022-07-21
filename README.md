@@ -67,7 +67,7 @@
 - 西窗科技（原微软msn，已私有化） - 上海
 - 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
-- [本来生活网](http://www.benlai.com) - 上海
+- [本来生活网](http://www.benlai.com) - 上海/北京
 - 好医生云医疗 - 成都
 - Pacvue - 无锡
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
