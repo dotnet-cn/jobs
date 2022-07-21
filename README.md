@@ -156,9 +156,6 @@
 - 宝马 BMW - 上海/北京
 - 上汽集团 - 上海
 
-### 新能源 New Energy
-- 特来电（充电桩网络） - 济南
-
 ### 日化/化工 Daily Chemical/Chemical Engineering
 - 陶氏化学 Dow Chemical- 上海/张家港
 - [Aspen Technology](https://www.aspentech.com/)- 上海
@@ -180,6 +177,9 @@
 - 罗氏 Roche - 上海/Rotkreuz 
 - 清赟医药 - 上海
 - 乐护科技 - 上海
+
+### 新能源 New Energy
+- 特来电（充电桩网络） - 济南
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
