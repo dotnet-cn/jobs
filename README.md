@@ -91,7 +91,7 @@
 - 递易 - 上海
 - [凯乐士](http://www.galaxis-tech.com/) - 武汉
 - TGW Group - 上海
-- 慧咨环球 WiseTech Global - 南京 (出品CargoWise公司) [新职位](https://github.com/dotnet-cn/jobs/issues/28)
+- 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise公司) [新职位](https://github.com/dotnet-cn/jobs/issues/28)
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
