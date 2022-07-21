@@ -34,7 +34,6 @@
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
 - 美伊科技 - 武汉
-- WuXi AppTec - 成都
 - 行云创新 - 广东/上海
 - 北森云计算 - 成都
 - Thoughtworks - 成都/武汉
@@ -155,27 +154,30 @@
 - 宝马 BMW - 上海/北京
 - 上汽集团 - 上海
 
+### 新能源 New Energy
+- 特来电（充电桩网络） - 济南
+
 ### 日化/化工 Daily Chemical/Chemical Engineering
-- 陶氏化学 Dow Chemical- 上海/张家港 （不建议去DMC部门）
+- 陶氏化学 Dow Chemical- 上海/张家港
 - [Aspen Technology](https://www.aspentech.com/)- 上海
 - 联合利华 Unilever - 上海/合肥
 
 ## 制药/医疗设备 Pharmacy/Medical Devices
-- 费森尤斯医疗
+- 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
 - 赛诺菲 Sanofi - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer - 上海
 - 医科达 Elekta - 上海
-- Merck Group 
-- 上海京颐科技 - 上海
-- 复星诊断 - 上海
-- 药明康德 - 上海
-- 艾莎医学
-- 上海联影 - 上海
-- Roche 罗氏 - 上海/Rotkreuz 
-- 上海清赟医药 - 上海
-- 上海乐护科技 - 上海
+- 默克集團 Merck Group - 上海 
+- 京颐科技 - 上海
+- 复星诊断 FoSun Diagnostics - 上海
+- 药明康德 WuXi AppTec - 上海
+- 艾莎医学 Ashermed - 上海
+- 联影 United Imaging - 上海
+- 罗氏 Roche - 上海/Rotkreuz 
+- 清赟医药 - 上海
+- 乐护科技 - 上海
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
@@ -192,8 +194,10 @@
 - 北京乐教乐学
 - 麦可思 - 成都/北京
 
-## 其他 Others
+## 认证 Certificates
 - SGS - 上海
+
+## 其他 Others
 - 中青旅
 - 有益云软件 - 嘉兴
 - 金雕科技 - 杭州
