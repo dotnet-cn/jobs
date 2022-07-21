@@ -48,8 +48,8 @@
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
 - Objectiva 奥博杰天 - 成都/西安
-- 博彦科技
-- 文思海辉
+- 博彦科技 Beyondsoft
+- 文思海辉 Pactera 
 
 ### ERP厂 ERP Software
 - Infor - 上海 
