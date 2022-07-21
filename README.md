@@ -193,8 +193,8 @@
 ## 教育 Education
 - 英孚教育 EF Education - 上海
 - 朗鹰教育 - 上海
-- 北京乐教乐学
-- 麦可思 - 成都/北京
+- 乐教乐学 - 北京
+- 麦可思 MyCos - 成都/北京
 
 ## 认证 Certification
 - SGS - 上海
