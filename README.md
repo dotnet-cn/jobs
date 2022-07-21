@@ -72,7 +72,7 @@
 - Pacvue - 无锡
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 - iHerb - 上海 (2021年底已裁员停招)
-- PlayerAuctions - 上海
+- PlayerAuctions - 上海 [新职位](https://github.com/dotnet-cn/jobs/issues/24)
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 
 ## 游戏 Games
@@ -91,6 +91,7 @@
 - 递易 - 上海
 - [凯乐士](http://www.galaxis-tech.com/) - 武汉
 - TGW Group - 上海
+- 慧咨环球 WiseTech Global - 南京 (出品CargoWise公司) [新职位](https://github.com/dotnet-cn/jobs/issues/28)
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
@@ -141,7 +142,7 @@
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
 - Tetra Pak - 上海
-- 凌像科技 Surimage - 杭州
+- 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
