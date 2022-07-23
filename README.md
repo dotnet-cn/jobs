@@ -137,12 +137,13 @@
 - 飞利浦 - 上海/成都
 - 农夫山泉 - 宁波
 - 雀巢 - 武汉/北京
-- YSD 云尚定 (Cimpress中国) - 上海
+- YSD 云尚定 (Cimpress中国) (资金链断裂，已裁员) - 上海
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
 - Tetra Pak - 上海
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
+- 浩汉智能科技 - 广州 
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
@@ -164,6 +165,7 @@
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
 - 赛诺菲 Sanofi - 上海
+- 美敦力 Medtronic - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer - 上海
 - 医科达 Elekta - 上海
@@ -204,4 +206,3 @@
 - 有益云软件 - 嘉兴
 - 金雕科技 - 杭州
 - 中强创业科技 - 北京
-
