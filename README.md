@@ -55,20 +55,24 @@
 - 程析智能 - 上海 (资金链出现问题，已部分裁员)
 - 聚水潭 - 上海
 - 用友 - 武汉/南昌/上海/北京/广东
+- 浩汉智能科技 - 广州 
+- YSD 云尚定 (Cimpress中国) (资金链断裂，已裁员) - 上海
 
 ## 互联网 Internet
 - 活动行 - 上海
+- 31会议 - 上海
 - 智联招聘 - 上海
 - 文创互娱 - 上海
 - 58同城 - 上海
 - IT之家
 - 同城艺龙 - 成都
 - 西窗科技（原微软msn，已私有化） - 上海
-- 31会议 - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
 - [本来生活网](http://www.benlai.com) - 上海/北京 (听说封城期间做保供物资出了问题，上了新闻，目前部分裁员)
 - 好医生云医疗 - 成都
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
+
+### 电商 eCommerce
 - iHerb - 上海/Irvine (2021年底已裁员停招)
 - Pacvue - 无锡/Seattle
 - PlayerAuctions - 上海 [新职位](https://github.com/dotnet-cn/jobs/issues/24)
@@ -137,13 +141,11 @@
 - 飞利浦 - 上海/成都
 - 农夫山泉 - 宁波
 - 雀巢 - 武汉/北京
-- YSD 云尚定 (Cimpress中国) (资金链断裂，已裁员) - 上海
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
 - Tetra Pak - 上海
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
-- 浩汉智能科技 - 广州 
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
@@ -170,7 +172,6 @@
 - Radiometer - 上海
 - 医科达 Elekta - 上海
 - 默克集團 Merck Group - 上海 
-- 京颐科技 - 上海
 - 复星诊断 FoSun Diagnostics - 上海
 - 药明康德 WuXi AppTec - 上海
 - 艾莎医学 Ashermed - 上海
@@ -178,6 +179,7 @@
 - 罗氏 Roche - 上海/Rotkreuz 
 - 清赟医药 - 上海
 - 乐护科技 - 上海
+- 京颐科技 - 上海
 
 ### 新能源 New Energy
 - 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
