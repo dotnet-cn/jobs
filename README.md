@@ -163,6 +163,9 @@
 - [Aspen Technology](https://www.aspentech.com/)- 上海
 - 联合利华 Unilever - 上海/合肥
 
+### 新能源 New Energy
+- 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
+
 ## 制药/医疗设备 Pharmacy/Medical Devices
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
@@ -180,9 +183,6 @@
 - 清赟医药 - 上海
 - 乐护科技 - 上海
 - 京颐科技 - 上海
-
-### 新能源 New Energy
-- 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
