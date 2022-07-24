@@ -39,6 +39,7 @@
 - Laserfiche - 上海
 - SSW - 杭州
 - 希亚思 CAC - 上海
+- 奈佳罗 Nagarro - 成都 [新职位](https://www.zhipin.com/job_detail/cabab98072bc4be51HZ73NS-E1M~.html?ka=hot-job-1)
 
 ### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
