@@ -1,4 +1,4 @@
-# 如何使用这个repo
+# 如何使用这个仓库 How to use this Repo
 
 务必开启Watch功能，本repo充分利用github本身的通知功能，Issue会定期更新职位，即使被墙也同样能收到通知邮件。
 ![image](https://user-images.githubusercontent.com/772561/145287519-285bfde6-e0d2-44e3-8149-cc927a5a60a0.png)
@@ -6,7 +6,7 @@
 
 我们的口号是找.NET职位跟做开源项目一样简单，订阅就行。
 
-# 社群
+# 社群 Online Social
 
 社区活动订阅：https://www.meetup.com/shanghai-nug/ （疫情期间基本线上）
 
@@ -14,7 +14,7 @@
 
 电报群：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
 
-### 面试准备
+### 面试准备 Interview Preparation
 
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
 
