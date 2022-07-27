@@ -171,8 +171,8 @@
 ## 制药/医疗设备 Pharmacy/Medical Devices
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
-- 赛诺菲 Sanofi - 上海 [新职位](https://www.zhipin.com/job_detail/59a47ed4bc9ccb571Xd43N20FFpQ.html?ka=geek_chat_job_detail)
-- 美敦力 Medtronic - 上海
+- 赛诺菲 Sanofi - 上海 
+- 美敦力 Medtronic - 上海 [新职位](https://www.zhipin.com/job_detail/bffcbda2066f43081Xd8092_FFJV.html?ka=geek_chat_job_detail)
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer - 上海
 - 医科达 Elekta - 上海
