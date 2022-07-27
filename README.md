@@ -39,7 +39,7 @@
 - Laserfiche - 上海
 - SSW - 杭州
 - 希亚思 CAC - 上海
-- 奈佳罗 Nagarro - 成都 [新职位](https://www.zhipin.com/job_detail/cabab98072bc4be51HZ73NS-E1M~.html?ka=hot-job-1)
+- 奈佳罗 Nagarro - 成都/上海 [新职位](https://www.zhipin.com/job_detail/59a47ed4bc9ccb571Xd43N20FFpQ.html?ka=geek_chat_job_detail)
 
 ### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
@@ -109,7 +109,7 @@
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 - 基准方中建筑设计 - 成都
-- Schneider Electric - 上海
+- 施耐德电气 Schneider Electric - 上海 [新职位](https://www.zhipin.com/job_detail/64bba727fc84c1021Xd-39i8GFJV.html?ka=geek_chat_job_detail)
 
 ## 金融 Finance
 - 东方财富- 上海/成都
@@ -119,9 +119,9 @@
 - 西部证券 - 上海
 - 招商银行 - 上海
 - GreenDot - 上海
-- FNZ - 上海
-- Beta财富
-- 浮石投资
+- 富谙智 FNZ - 上海 [新职位](https://www.zhipin.com/job_detail/6d9790eef50982dd1XZ_2tu_FFJZ.html?ka=geek_chat_job_detail)
+- Beta财富 - 上海
+- 浮石投资 
 - 万得 Wind - 上海
 - Optiver - 上海
 - Third Bridge - 上海
@@ -171,7 +171,7 @@
 ## 制药/医疗设备 Pharmacy/Medical Devices
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
-- 赛诺菲 Sanofi - 上海
+- 赛诺菲 Sanofi - 上海 [新职位](https://www.zhipin.com/job_detail/59a47ed4bc9ccb571Xd43N20FFpQ.html?ka=geek_chat_job_detail)
 - 美敦力 Medtronic - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer - 上海
