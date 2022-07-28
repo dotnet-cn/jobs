@@ -177,7 +177,7 @@
 - Radiometer - 上海
 - 医科达 Elekta - 上海
 - 默克集團 Merck Group - 上海 
-- 复星诊断 FoSun Diagnostics - 上海
+- 复星诊断 FoSun Diagnostics - 上海 [新职位](https://www.zhipin.com/job_detail/5724deb1d901319a1XV629y9GFpR.html)
 - 药明康德 WuXi AppTec - 上海
 - 艾莎医学 Ashermed - 上海
 - 联影 United Imaging - 上海
