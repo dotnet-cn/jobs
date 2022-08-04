@@ -75,7 +75,7 @@
 ### 电商 eCommerce
 - iHerb - 上海/Irvine (2021年底已裁员停招)
 - Pacvue - 无锡/Seattle
-- PlayerAuctions - 上海
+- PlayerAuctions - 上海/马尼拉
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 
 ## 游戏 Games
