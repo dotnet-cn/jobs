@@ -28,7 +28,7 @@
 - 明源云 - 武汉
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/) Clobotics - 上海
-- LexisNexis - 上海
+- LexisNexis - 上海 [新职位](https://www.zhipin.com/job_detail/7fa9862926e1b5c01XVz09m6EFZV.html)
 - HPE 惠普 - 上海
 - 黑瞳科技 - 上海 (出品 公安反诈骗app的公司)
 - [seismic](https://seismic.com/)  - 上海
@@ -76,7 +76,7 @@
 ### 电商 eCommerce
 - iHerb - 上海/Irvine (2021年底已裁员停招)
 - Pacvue - 无锡/Seattle
-- PlayerAuctions - 上海 [新职位](https://github.com/dotnet-cn/jobs/issues/24)
+- PlayerAuctions - 上海
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 
 ## 游戏 Games
