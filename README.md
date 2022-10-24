@@ -42,8 +42,8 @@
 
 ### 软件/IT人员外包 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
-- Accenture/Avanade 上海/北京/大连 
 - EPAM - 上海
+- Accenture/Avanade 上海/北京/大连 
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
 - 奈佳罗 Nagarro (原名Objectiva 奥博杰天) - 成都/西安/上海 [新职位](https://www.zhipin.com/job_detail/59a47ed4bc9ccb571Xd43N20FFpQ.html?ka=geek_chat_job_detail)
