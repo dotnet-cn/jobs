@@ -87,7 +87,7 @@
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
-- Transfinder - 上海/Austin
+- Transfinder - 上海 
 - DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
 - 递易 - 上海
@@ -170,7 +170,7 @@
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 珀金埃尔默 PerkinElmer - 上海
 - 赛诺菲 Sanofi - 上海 
-- 美敦力 Medtronic - 上海 [新职位](https://www.zhipin.com/job_detail/bffcbda2066f43081Xd8092_FFJV.html?ka=geek_chat_job_detail)
+- 美敦力 Medtronic - 上海 [只有外派职位]
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 - Radiometer - 上海
 - 医科达 Elekta - 上海
