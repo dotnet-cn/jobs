@@ -23,8 +23,9 @@
 - PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
+- Tata - 上海
 - [AON Hewitt](http://www.aon.com) 上海
-- 微软 - 上海/苏州/北京
+- 微软 Microsoft - 上海/苏州/北京
 - 明源云 - 武汉
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/) Clobotics - 上海
@@ -73,9 +74,10 @@
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 
 ### 电商 eCommerce
-- iHerb - 上海/Irvine (2021年底因砍掉俄罗斯业务已裁员停招)
+- iHerb - 上海/Irvine (2021年底因砍掉俄罗斯业务已裁员)
 - Pacvue - 无锡/Seattle
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
+- Playerauctions - 上海 
 
 ## 游戏 Games
 - EA - 上海
@@ -87,7 +89,6 @@
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
-- Transfinder - 上海 
 - DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
 - 递易 - 上海
@@ -95,6 +96,8 @@
 - TGW Group - 上海
 - 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise公司) [新职位](https://github.com/dotnet-cn/jobs/issues/28)
 - 联积供应链 - 上海
+- C.H Robinson - 上海
+- Transfinder - 上海 
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - Honeywell- 上海
@@ -126,6 +129,7 @@
 - CSTC 花旗金融 - 上海
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
+- Verisk - 上海/Jersey City
 
 ## 农业 Argiculture
 - 雷尼威尔物联网 (农业大脑工程) - 上海
@@ -155,7 +159,7 @@
 - 特斯拉 Tesla - 上海
 - 蔚来汽车 NIO - 上海
 - 德国大众 Volkswagen  - 北京
-- 宝马 BMW - 上海/北京
+- 宝马中国 BMW - 上海/北京 [外派职位，无正式]
 - 上汽集团 - 上海
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
