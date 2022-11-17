@@ -100,13 +100,14 @@
 - Transfinder - 上海 
 
 ## 建筑/安防/环境 Construction/Safty/Environment
-- Honeywell- 上海
-- Bosch 博世 - 上海
+- 霍尼韦尔 Honeywell- 上海
+- 博世 Bosch - 上海
+- 仲量联行 JLL - 上海
 - Bureau Veritas 必维国际 - 上海
 - [广联达](https://www.glodon.com/) - 上海
 - 龙湖集团 - 上海
 - 天华建筑设计 - 上海
-- 蓝色星球
+- 蓝色星球 - 上海/南京
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 - 基准方中建筑设计 - 成都
