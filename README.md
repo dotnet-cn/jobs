@@ -78,6 +78,7 @@
 - Pacvue - 无锡/Seattle
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 - Playerauctions - 上海 
+- PlanetArt - 杭州
 
 ## 游戏 Games
 - EA - 上海
