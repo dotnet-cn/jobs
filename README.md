@@ -153,7 +153,7 @@
 - MediaTek 联发科 - 合肥
 - Tetra Pak 利乐 - 上海
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
-- Lego 乐高 - 上海
+- Lego 乐高 - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
