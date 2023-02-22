@@ -189,6 +189,7 @@
 - 清赟医药 - 上海
 - 乐护科技 - 上海
 - 京颐科技 - 上海
+- [Zai Lab](https://cn.zailaboratory.com/) - 上海
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
