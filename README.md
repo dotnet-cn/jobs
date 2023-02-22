@@ -29,7 +29,7 @@
 - 明源云 - 武汉
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/) Clobotics - 上海
-- LexisNexis - 上海 [新职位](https://www.zhipin.com/job_detail/7fa9862926e1b5c01XVz09m6EFZV.html)
+- LexisNexis - 上海 
 - HPE 惠普 - 上海
 - 黑瞳科技 - 上海 (出品 公安反诈骗app的公司)
 - [seismic](https://seismic.com/)  - 上海
@@ -47,7 +47,7 @@
 - Accenture/Avanade 上海/北京/大连 
 - [华钦科技CLPS](http://www.clps.com.cn/)
 - 微创软件 - 上海
-- 奈佳罗 Nagarro (原名Objectiva 奥博杰天) - 成都/西安/上海 [新职位](https://www.zhipin.com/job_detail/59a47ed4bc9ccb571Xd43N20FFpQ.html?ka=geek_chat_job_detail)
+- 奈佳罗 Nagarro (原名Objectiva 奥博杰天) - 成都/西安/上海
 - 博彦科技 Beyondsoft
 - 文思海辉 Pactera 
 
@@ -112,7 +112,7 @@
 - Autodesk- 上海/北京
 - [DHI Group](https://www.dhigroup.com)
 - 基准方中建筑设计 - 成都
-- 施耐德电气 Schneider Electric - 上海 [新职位](https://www.zhipin.com/job_detail/64bba727fc84c1021Xd-39i8GFJV.html?ka=geek_chat_job_detail)
+- 施耐德电气 Schneider Electric - 上海
 
 ## 金融 Finance
 - 东方财富- 上海/成都
@@ -122,7 +122,7 @@
 - 西部证券 - 上海
 - 招商银行 - 上海
 - GreenDot - 上海
-- 富谙智 FNZ - 上海 [新职位](https://www.zhipin.com/job_detail/6d9790eef50982dd1XZ_2tu_FFJZ.html?ka=geek_chat_job_detail)
+- 富谙智 FNZ - 上海 
 - Beta财富 - 上海
 - 浮石投资 
 - 万得 Wind - 上海
