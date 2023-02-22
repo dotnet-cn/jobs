@@ -136,7 +136,7 @@
 ## 农业 Argiculture
 - 雷尼威尔物联网 (农业大脑工程) - 上海
 
-## 制造业 Manufacturing
+## 传统制造业 Manufacturing
 - Intel - 上海/成都
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
@@ -150,8 +150,9 @@
 - Geely 吉利科技 - 成都/重庆
 - Jabil 捷普科技 - 成都
 - MediaTek 联发科 - 合肥
-- Tetra Pak - 上海
+- Tetra Pak 利乐 - 上海
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
+- Lego 乐高 - 上海
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
