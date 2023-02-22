@@ -41,7 +41,7 @@
 - SSW - 杭州
 - 希亚思 CAC - 上海
 
-### 软件/IT人员外包 IT Outsourcing
+### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
 - EPAM - 上海
 - Accenture/Avanade 上海/北京/大连 
