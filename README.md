@@ -139,6 +139,7 @@
 
 ## 传统制造业 Manufacturing
 - Intel - 上海/成都
+- AT&S - 重庆 [新职位](https://career.ats.net/job/Chongqing-IT-Developer-_NET-Chon/900535701/)
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
 - 美的 Midea
@@ -155,6 +156,7 @@
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
 - Lego 乐高 - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
 - Bosch Rexroth 博世力士乐 - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
+
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
