@@ -128,7 +128,7 @@
 - 万得 Wind - 上海
 - Optiver - 上海
 - Third Bridge - 上海
-- CSTC 花旗金融 - 上海
+- CSTC 花旗金融 - 上海/蒙特利尔
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
 - Verisk - 上海/西班牙
