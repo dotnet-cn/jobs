@@ -44,8 +44,8 @@
 ### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
 - EPAM - 上海
-- Accenture/Avanade 上海/北京/大连 
-- [华钦科技CLPS](http://www.clps.com.cn/)
+- Accenture/Avanade - 上海/北京/大连 
+- [华钦科技CLPS](http://www.clps.com.cn/) - 上海
 - 微创软件 - 上海
 - 奈佳罗 Nagarro (原名Objectiva 奥博杰天) - 成都/西安/上海
 - 博彦科技 Beyondsoft
