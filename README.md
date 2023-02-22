@@ -86,6 +86,7 @@
 - 网易游戏 Netease Games - 杭州
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
+- [Everymatrix](https://everymatrix.com/) - 长沙 [新职位](https://everymatrix.teamtailor.com/jobs/2396729-senior-net-developer)
 
 ## 运输物流 Logistics
 - [中通快递](http://www.zto.com) - 上海
