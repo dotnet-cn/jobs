@@ -131,7 +131,7 @@
 - CSTC 花旗金融 - 上海
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
-- Verisk - 上海/Jersey City
+- Verisk - 上海/西班牙
 
 ## 农业 Argiculture
 - 雷尼威尔物联网 (农业大脑工程) - 上海
