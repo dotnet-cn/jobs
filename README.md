@@ -158,7 +158,7 @@
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
 - Lego 乐高 - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
 - Bosch Rexroth 博世力士乐 - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
-- Prodrive Technology - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
+- Prodrive Technologies - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
