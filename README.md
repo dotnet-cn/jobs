@@ -140,26 +140,26 @@
 - 雷尼威尔物联网 (农业大脑工程) - 上海
 
 ## 传统制造业 Manufacturing
-- Intel - 上海/成都
+- 英特尔 Intel - 上海/成都
 - AT&S - 重庆 [新职位](https://career.ats.net/job/Chongqing-IT-Developer-_NET-Chon/900535701/)
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
 - 美的 Midea
-- 美国国家仪器 National Instruments - 上海
-- 蔡司 ZEISS Group - 上海/广州
+- National Instruments 美国国家仪器 - 上海
+- ZEISS Group 蔡司 - 上海/广州
 - Teradyne - 上海
-- 飞利浦 - 上海/成都
+- 飞利浦 Phillips - 上海/成都
 - 农夫山泉 - 宁波
-- 雀巢 - 武汉/北京
-- Geely 吉利科技 - 成都/重庆
-- Jabil 捷普科技 - 成都
-- MediaTek 联发科 - 合肥
-- Tetra Pak 利乐 - 上海
-- 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
-- Lego 乐高 - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
-- Bosch Rexroth 博世力士乐 - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
+- 雀巢 Nestle - 武汉/北京
+- 吉利科技 Geely - 成都/重庆
+- 捷普科技 Jabil - 成都
+- 联发科 MediaTek - 合肥
+- 利乐 Tetra Pak - 上海
+- 凌像科技 Surimage  - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
+- 乐高 Lego - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
+- 博世力士乐 Bosch Rexroth - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
 - Prodrive Technologies - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
-- Safran 赛峰集团 - 北京 [新职位](https://www.safran-group.com/jobs/china/beijing-beijing/application-engineer-erpbpm-114512?OriginID=3698&BoardID=)
+- 赛峰集团 Safran Group - 北京 [新职位](https://www.safran-group.com/jobs/china/beijing-beijing/application-engineer-erpbpm-114512?OriginID=3698&BoardID=)
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
