@@ -133,6 +133,8 @@
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
 - Verisk - 上海/西班牙
+- Global Payment - 成都
+- Linnovate Partners - 深圳 [新职位](https://www.linnovatepartners.com/jobs/%e8%bb%9f%e4%bb%b6%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%ab-c/)
 
 ## 农业 Argiculture
 - 雷尼威尔物联网 (农业大脑工程) - 上海
@@ -156,7 +158,7 @@
 - 凌像科技 Surimage - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
 - Lego 乐高 - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
 - Bosch Rexroth 博世力士乐 - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
-
+- Prodrive Technology - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
