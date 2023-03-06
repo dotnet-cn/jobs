@@ -161,6 +161,8 @@
 - Prodrive Technologies - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
 - 赛峰集团 Safran Group - 北京 [新职位](https://www.safran-group.com/jobs/china/beijing-beijing/application-engineer-erpbpm-114512?OriginID=3698&BoardID=)
 - AMAT - 上海/西安
+- 汇川 - 南京/西安/苏州
+- 信捷 - 无锡
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
@@ -172,6 +174,8 @@
 - 德国大众 Volkswagen  - 北京
 - 宝马中国 BMW - 上海/北京 [外派职位，无正式]
 - 上汽集团 - 上海
+- 比亚迪 - 西安/宁波/惠州/深圳
+- 经纬恒润 - 天津/成都/北京
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
 - 陶氏化学 Dow Chemical- 上海/张家港 (不建议去DMC部门，正式工各种摸鱼不干活，都是外包干活)
@@ -180,6 +184,7 @@
 
 ### 新能源 New Energy
 - 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
+- 华锐风电 - 北京
 
 ## 制药/医疗设备 Pharmacy/Medical Devices
 - 费森尤斯医疗 Fresenius Medical Care - 上海
