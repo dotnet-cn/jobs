@@ -145,8 +145,8 @@
 - 西门子 Siemens - 上海/成都
 - 大疆 DJI - 深圳 
 - 美的 Midea
-- National Instruments 美国国家仪器 - 上海
-- ZEISS Group 蔡司 - 上海/广州
+- 美国国家仪器 National Instruments - 上海
+- 蔡司 ZEISS Group - 上海/广州
 - Teradyne - 上海
 - 飞利浦 Phillips - 上海/成都
 - 农夫山泉 - 宁波
@@ -160,6 +160,7 @@
 - 博世力士乐 Bosch Rexroth - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
 - Prodrive Technologies - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
 - 赛峰集团 Safran Group - 北京 [新职位](https://www.safran-group.com/jobs/china/beijing-beijing/application-engineer-erpbpm-114512?OriginID=3698&BoardID=)
+- AMAT - 上海/西安
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
