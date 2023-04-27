@@ -40,6 +40,7 @@
 - Laserfiche - 上海
 - SSW - 杭州
 - 希亚思 CAC - 上海
+- 奥哲 - 深圳
 
 ### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
