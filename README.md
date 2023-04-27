@@ -91,7 +91,6 @@
 - [Everymatrix](https://everymatrix.com/) - 长沙 [新职位](https://everymatrix.teamtailor.com/jobs/2396729-senior-net-developer)
 
 ## 运输物流 Logistics
-- [中通快递](http://www.zto.com) - 上海
 - 顺丰快递 - 上海
 - DNV 挪威船级社 - 上海/成都/广州/台北
 - 上海胜境网络 - 上海
