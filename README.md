@@ -179,7 +179,7 @@
 - 经纬恒润 - 天津/成都/北京
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
-- 陶氏化学 Dow Chemical- 上海/张家港 (不建议去DMC部门，正式工各种摸鱼不干活，都是外包干活)
+- 陶氏化学 Dow Chemical- 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/33)
 - [Aspen Technology](https://www.aspentech.com/)- 上海
 - 联合利华 Unilever - 上海/合肥
 
