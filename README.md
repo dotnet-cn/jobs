@@ -8,7 +8,7 @@
 
 # 社群 Online Social
 
-社区活动订阅：https://www.meetup.com/shanghai-nug/ （疫情期间基本线上）
+社区活动订阅：https://www.meetup.com/shanghai-nug/ 
 
 微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
