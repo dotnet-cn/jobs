@@ -133,7 +133,7 @@
 - CSTC 花旗金融 - 上海/蒙特利尔
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
-- Verisk - 上海/西班牙
+- Verisk - 上海/马拉加/纽约
 - Global Payment - 成都
 - Linnovate Partners - 深圳 [新职位](https://www.linnovatepartners.com/jobs/%e8%bb%9f%e4%bb%b6%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%ab-c/)
 
