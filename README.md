@@ -67,13 +67,16 @@
 - 文创互娱 - 上海
 - 58同城 - 上海
 - IT之家
-- 同城艺龙 - 成都
 - 西窗科技（原微软msn，已私有化） - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
 - [本来生活网](http://www.benlai.com) - 上海/北京 (听说封城期间做保供物资出了问题，上了新闻，目前部分裁员)
 - 好医生云医疗 - 成都
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 - 元聚网络 - 上海 (追书神器app运营公司)
+
+### 旅游 Travel
+- DidaTravel - 深圳
+- 同城艺龙 - 成都
 
 ### 电商 eCommerce
 - iHerb - 上海/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31)
@@ -133,8 +136,7 @@
 - CSTC 花旗金融 - 上海/蒙特利尔
 - 野村证券 Nomura  - 上海
 - Global Payments - 成都
-- Verisk - 上海/马拉加/纽约
-- Global Payment - 成都
+- Verisk - 上海/马拉加
 - Linnovate Partners - 深圳 [新职位](https://www.linnovatepartners.com/jobs/%e8%bb%9f%e4%bb%b6%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%ab-c/)
 
 ## 农业 Argiculture
@@ -150,12 +152,9 @@
 - 蔡司 ZEISS Group - 上海/广州
 - Teradyne - 上海
 - 飞利浦 Phillips - 上海/成都
-- 农夫山泉 - 宁波
-- 雀巢 Nestle - 武汉/北京
 - 吉利科技 Geely - 成都/重庆
 - 捷普科技 Jabil - 成都
 - 联发科 MediaTek - 合肥
-- 利乐 Tetra Pak - 上海
 - 凌像科技 Surimage  - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
 - 乐高 Lego - 上海 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
 - 博世力士乐 Bosch Rexroth - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
@@ -164,6 +163,11 @@
 - AMAT - 上海/西安
 - 汇川 - 南京/西安/苏州
 - 信捷 - 无锡
+
+### 食品饮料
+- 农夫山泉 - 宁波
+- 雀巢 Nestle - 武汉/北京
+- 利乐 Tetra Pak - 上海
 
 ### 钢铁 Steel
 - 中信泰富特钢集团 - 上海/黄石/铜陵/绍兴
