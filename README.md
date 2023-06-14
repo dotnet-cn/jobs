@@ -121,23 +121,25 @@
 
 ## 金融 Finance
 - 东方财富- 上海/成都
-- 摩根斯坦利 Morgan Stanley - 上海
-- 摩根大通 JP Morgan - 上海
-- 瑞银 UBS - 上海
 - 西部证券 - 上海
-- 招商银行 - 上海
-- GreenDot - 上海
-- 富谙智 FNZ - 上海 
 - Beta财富 - 上海
 - 浮石投资 
 - 万得 Wind - 上海
 - Optiver - 上海
-- Third Bridge - 上海
-- CSTC 花旗金融 - 上海/蒙特利尔
-- 野村证券 Nomura  - 上海
 - Global Payments - 成都
 - Verisk - 上海/马拉加
 - Linnovate Partners - 深圳 [新职位](https://www.linnovatepartners.com/jobs/%e8%bb%9f%e4%bb%b6%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%ab-c/)
+- 富谙智 FNZ - 上海 
+
+### 银行
+- 摩根斯坦利 Morgan Stanley - 上海
+- 摩根大通 JP Morgan - 上海
+- 瑞银 UBS - 上海
+- 招商银行 - 上海
+- Third Bridge - 上海
+- CSTC 花旗金融 - 上海/蒙特利尔
+- 野村证券 Nomura  - 上海
+- GreenDot - 上海
 
 ## 农业 Argiculture
 - 雷尼威尔物联网 (农业大脑工程) - 上海
@@ -191,24 +193,28 @@
 - 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
 - 华锐风电 - 北京
 
-## 制药/医疗设备 Pharmacy/Medical Devices
-- 费森尤斯医疗 Fresenius Medical Care - 上海
+## 医疗
 - 珀金埃尔默 PerkinElmer - 上海
-- 赛诺菲 Sanofi - 上海 
-- 美敦力 Medtronic - 上海 [只有外派职位]
-- [CXA Group](https://www.linkedin.com/company/cxagroup) 
-- Radiometer - 上海
-- 医科达 Elekta - 上海
-- 默克集團 Merck Group - 上海 
-- 复星诊断 FoSun Diagnostics - 上海 [新职位](https://www.zhipin.com/job_detail/5724deb1d901319a1XV629y9GFpR.html)
-- 药明康德 WuXi AppTec - 上海
-- 艾莎医学 Ashermed - 上海
-- 联影 United Imaging - 上海
-- 罗氏 Roche - 上海/Rotkreuz 
-- 清赟医药 - 上海
+- 费森尤斯医疗 Fresenius Medical Care - 上海
 - 乐护科技 - 上海
 - 京颐科技 - 上海
+- 复星诊断 FoSun Diagnostics - 上海 [新职位](https://www.zhipin.com/job_detail/5724deb1d901319a1XV629y9GFpR.html)
+- 罗氏 Roche - 上海/Rotkreuz 
+- 清赟科技 - 上海
+- 艾莎医学 Ashermed - 上海
+- [CXA Group](https://www.linkedin.com/company/cxagroup) 
+
+### 制药 Pharmacy
+- 赛诺菲 Sanofi - 上海 
+- 医科达 Elekta - 上海
+- 默克集團 Merck Group - 上海 
+- 药明康德 WuXi AppTec - 上海
 - [Zai Lab](https://cn.zailaboratory.com/) - 上海
+
+### 医疗设备 Medical Devices
+- 美敦力 Medtronic - 上海 (只有外派职位)
+- 联影 United Imaging - 上海
+- Radiometer - 上海
 
 ## 人力资源 Human Resource
 - 美世咨询 Mercer - 上海
