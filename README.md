@@ -79,10 +79,10 @@
 - 同城艺龙 - 成都
 
 ### 电商 eCommerce
-- iHerb - 上海/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31)
+- iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31)
 - Pacvue - 无锡/Seattle
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
-- Playerauctions - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
+- PlayerAuctions - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
 - PlanetArt - 上海/杭州 (这是集团公司，cafepress是其子公司)
 
 ## 游戏 Games
@@ -165,6 +165,7 @@
 - AMAT - 上海/西安
 - 汇川 - 南京/西安/苏州
 - 信捷 - 无锡
+- 乐高集团 Lego - 上海/哥本哈根
 
 ### 食品饮料
 - 农夫山泉 - 宁波
