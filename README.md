@@ -138,7 +138,7 @@
 - 招商银行 - 上海
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
-- 野村证券 Nomura  - 上海
+- 野村证券 Nomura  - 上海 [已启动撤离中国的计划，部分人员已transfer到日本东京]
 - GreenDot - 上海
 
 ## 农业 Argiculture
