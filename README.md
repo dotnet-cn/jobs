@@ -141,9 +141,6 @@
 - 野村证券 Nomura  - 上海 [已启动撤离中国的计划，部分人员已transfer到日本东京]
 - GreenDot - 上海
 
-## 农业 Argiculture
-- 雷尼威尔物联网 (农业大脑工程) - 上海
-
 ## 传统制造业 Manufacturing
 - 英特尔 Intel - 上海/成都
 - AT&S - 重庆 [新职位](https://career.ats.net/job/Chongqing-IT-Developer-_NET-Chon/900535701/)
