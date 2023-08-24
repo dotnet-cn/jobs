@@ -25,7 +25,7 @@
 - Cognizant - 上海
 - Tata - 上海
 - [AON Hewitt](http://www.aon.com) 上海
-- 微软 Microsoft - 上海/苏州/北京
+- 微软 Microsoft - 上海/苏州/北京 [详细信息](https://github.com/orgs/dotnet-cn/discussions/37)
 - 明源云 - 武汉
 - Optimum System (奥解思)
 - [扩博智能](https://www.clobotics.com/) Clobotics - 上海
