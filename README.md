@@ -12,8 +12,6 @@
 
 微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
-电报群：https://t.me/cnnug （务必通过验证机器人的验证，否则会被踢群）
-
 ### 面试准备 Interview Preparation
 
 各大厂的面试题请看[这里](https://github.com/dotnet-cn/jobs/blob/master/interview_questions.md)
