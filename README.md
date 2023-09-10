@@ -153,7 +153,7 @@
 - 捷普科技 Jabil - 成都
 - 联发科 MediaTek - 合肥
 - 凌像科技 Surimage  - 杭州 [新职位](https://github.com/dotnet-cn/jobs/issues/26)
-- 乐高 Lego - 上海/哥本哈根 [新职位](https://www.lego.com/en-us/careers/job/software-engineer-d7c3e668fa92100140785b76c7660000)
+- 乐高 Lego - 上海/哥本哈根 
 - 博世力士乐 Bosch Rexroth - 江苏 [新职位](https://cn.indeed.com/viewjob?jk=f3f398715f8bf3d5&tk=1gptnoj5njqmc800&from=serp&vjs=3)
 - Prodrive Technologies - 苏州 [新职位](https://prodrive-technologies.com/careers/vacancies/application-software-engineer/)
 - 赛峰集团 Safran Group - 北京 [新职位](https://www.safran-group.com/jobs/china/beijing-beijing/application-engineer-erpbpm-114512?OriginID=3698&BoardID=)
