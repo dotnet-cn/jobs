@@ -194,7 +194,7 @@
 - 费森尤斯医疗 Fresenius Medical Care - 上海
 - 乐护科技 - 上海
 - 京颐科技 - 上海
-- 复星诊断 FoSun Diagnostics - 上海 [新职位](https://www.zhipin.com/job_detail/5724deb1d901319a1XV629y9GFpR.html)
+- 复星诊断 FoSun Diagnostics - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/38)
 - 罗氏 Roche - 上海/Rotkreuz 
 - 清赟科技 - 上海
 - 艾莎医学 Ashermed - 上海
