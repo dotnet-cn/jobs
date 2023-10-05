@@ -67,7 +67,7 @@
 - IT之家
 - 西窗科技（原微软msn，已私有化） - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
-- [本来生活网](http://www.benlai.com) - 上海/北京 (听说封城期间做保供物资出了问题，上了新闻，目前部分裁员)
+- [本来生活网](http://www.benlai.com) - 上海/北京 (已部分裁员)
 - 好医生云医疗 - 成都
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 - 元聚网络 - 上海 (追书神器app运营公司)
