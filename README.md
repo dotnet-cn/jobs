@@ -74,7 +74,7 @@
 
 ### 旅游 Travel
 - DidaTravel - 深圳
-- 同城艺龙 - 成都
+- 同城艺龙 - 成都/苏州 [新职位](https://github.com/dotnet-cn/jobs/issues/39)
 
 ### 电商 eCommerce
 - iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) (只有外派职位)
