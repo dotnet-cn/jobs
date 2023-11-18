@@ -89,7 +89,7 @@
 - 网易游戏 Netease Games - 杭州
 - Virtuos Games - 成都
 - 福禄网络 - 武汉
-- [Everymatrix](https://everymatrix.com/) - 长沙 [新职位](https://everymatrix.teamtailor.com/jobs/2396729-senior-net-developer)
+- [Everymatrix](https://everymatrix.com/) - 长沙 
 
 ## 运输物流 Logistics
 - 顺丰快递 - 上海
@@ -98,7 +98,7 @@
 - 递易 - 上海
 - [凯乐士](http://www.galaxis-tech.com/) - 武汉
 - TGW Group - 上海
-- 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise的公司) [新职位](https://github.com/dotnet-cn/jobs/issues/28)
+- 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise的公司) 
 - 联积供应链 - 上海
 - C.H Robinson - 上海
 - Transfinder - 上海 
@@ -126,7 +126,7 @@
 - Optiver - 上海
 - Global Payments - 成都
 - Verisk - 上海/马拉加
-- Linnovate Partners - 深圳 [新职位](https://www.linnovatepartners.com/jobs/%e8%bb%9f%e4%bb%b6%e5%bc%80%e5%8f%91%e5%b7%a5%e7%a8%8b%e5%b8%ab-c/)
+- Linnovate Partners - 深圳 
 - 富谙智 FNZ - 上海 
 
 ### 银行
@@ -136,7 +136,7 @@
 - 招商银行 - 上海
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
-- 野村证券 Nomura  - 上海 [已启动撤离中国的计划，部分人员已transfer到日本东京]
+- 野村证券 Nomura  - 上海 
 - GreenDot - 上海
 
 ## 传统制造业 Manufacturing
