@@ -34,7 +34,7 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - 行云创新 - 广东/上海
-- Thoughtworks - 成都/武汉
+- Thoughtworks - 成都/武汉/西安
 - Laserfiche - 上海
 - SSW - 杭州
 - 希亚思 CAC - 上海
