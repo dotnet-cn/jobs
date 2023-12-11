@@ -1,4 +1,4 @@
-![image](https://github.com/dotnet-cn/jobs/assets/772561/3bd6822f-5c40-457e-9a0e-da1eba7c5c8f)# 如何使用这个仓库 How to use this Repo
+# 如何使用这个仓库 How to use this Repo
 
 务必开启Watch功能，本repo充分利用github本身的通知功能，Issue会定期更新职位，即使被墙也同样能收到通知邮件。
 ![image](https://user-images.githubusercontent.com/772561/145287519-285bfde6-e0d2-44e3-8149-cc927a5a60a0.png)
