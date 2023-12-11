@@ -164,7 +164,7 @@
 
 ### 食品饮料
 - 农夫山泉 - 宁波
-- 雀巢 Nestle - 武汉/北京
+- 雀巢 Nestle - 武汉/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 利乐 Tetra Pak - 上海
 
 ### 钢铁 Steel
@@ -175,7 +175,7 @@
 - 特斯拉 Tesla - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
 - 蔚来汽车 NIO - 上海
 - 德国大众 Volkswagen  - 北京
-- 宝马中国 BMW - 上海/北京 [外派职位，无正式]
+- 宝马中国 BMW - 上海/北京 [外派职位，无正式] ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 上汽集团 - 上海
 - 比亚迪 - 西安/宁波/惠州/深圳
 - 经纬恒润 - 天津/成都/北京
