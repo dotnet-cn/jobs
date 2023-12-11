@@ -43,7 +43,7 @@
 ### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
 - EPAM - 上海
-- Accenture/Avanade - 上海/北京/大连 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)  [详细信息](https://github.com/orgs/dotnet-cn/discussions/34)
+- Accenture/Avanade - 上海/北京/大连 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/34)
 - [华钦科技CLPS](http://www.clps.com.cn/) - 上海
 - 微创软件 - 上海
 - 奈佳罗 Nagarro (原名Objectiva 奥博杰天) - 成都/西安/上海
