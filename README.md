@@ -80,7 +80,7 @@
 - iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) (只有外派职位)
 - Pacvue - 无锡/Seattle
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
-- PlayerAuctions - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
+- PlayerAuctions - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
 - PlanetArt - 上海/杭州 (这是集团公司，cafepress是其子公司)
 
 ## 游戏 Games
