@@ -173,7 +173,7 @@
 - 宝信软件 - 上海
 
 ### 汽车 Automobile
-- 特斯拉 Tesla - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
+- 特斯拉 Tesla - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
 - 蔚来汽车 NIO - 上海
 - 德国大众 Volkswagen  - 北京
 - 宝马中国 BMW - 上海/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
@@ -202,11 +202,11 @@
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
 
 ### 制药 Pharmacy
-- 赛诺菲 Sanofi - 上海 
-- 医科达 Elekta - 上海
+- 赛诺菲 Sanofi - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- 医科达 Elekta - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 默克集團 Merck Group - 上海 
-- 药明康德 WuXi AppTec - 上海
-- [Zai Lab](https://cn.zailaboratory.com/) - 上海
+- 药明康德 WuXi AppTec - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
+- [Zai Lab](https://cn.zailaboratory.com/) - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 
 ### 医疗设备 Medical Devices
 - 美敦力 Medtronic - 上海 (只有外派职位)
