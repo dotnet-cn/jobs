@@ -104,10 +104,10 @@
 - Transfinder - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 
 ## 建筑/安防/环境 Construction/Safty/Environment
-- 霍尼韦尔 Honeywell- 上海
-- 博世 Bosch - 上海
+- 霍尼韦尔 Honeywell- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- 博世 Bosch - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 仲量联行 JLL - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
-- Bureau Veritas 必维国际 - 上海
+- 必维国际 Bureau Veritas - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - [广联达](https://www.glodon.com/) - 上海
 - 龙湖集团 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - 天华建筑设计 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
