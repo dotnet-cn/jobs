@@ -150,18 +150,18 @@
 - 蔡司 ZEISS Group - 上海/广州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - Teradyne - 上海
 - 飞利浦 Phillips - 上海/成都
-- 吉利科技 Geely - 成都/重庆
+- 吉利科技 Geely - 成都/重庆 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - 捷普科技 Jabil - 成都
 - 联发科 MediaTek - 合肥
-- 凌像科技 Surimage  - 杭州 
 - 乐高 Lego - 上海/哥本哈根 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
-- 博世力士乐 Bosch Rexroth - 江苏 
+- 博世力士乐 Bosch Rexroth - 江苏 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - Prodrive Technologies - 苏州 
 - 赛峰集团 Safran Group - 北京  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - AMAT - 上海/西安
 - 汇川 - 南京/西安/苏州
 - 信捷 - 无锡
-- 小米科技 - 北京 
+- 小米科技 - 北京
+- 凌像科技 Surimage  - 杭州 
 
 ### 食品饮料
 - 农夫山泉 - 宁波
