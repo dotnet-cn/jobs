@@ -125,7 +125,7 @@
 - 浮石投资 
 - 万得 Wind - 上海
 - Optiver - 上海
-- Global Payments - 成都
+- Global Payments - 成都 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - Verisk - 上海  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - Linnovate Partners - 深圳 
 - 富谙智 FNZ - 上海 
@@ -138,26 +138,26 @@
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
 - 野村证券 Nomura  - 上海 
-- GreenDot - 上海
+- GreenDot - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ## 传统制造业 Manufacturing
-- 英特尔 Intel - 上海/成都
+- 英特尔 Intel - 上海/成都 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - AT&S - 重庆 
-- 西门子 Siemens - 上海/成都
+- 西门子 Siemens - 上海/成都 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 大疆 DJI - 深圳 
 - 美的 Midea
 - 美国国家仪器 National Instruments - 上海
-- 蔡司 ZEISS Group - 上海/广州
+- 蔡司 ZEISS Group - 上海/广州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - Teradyne - 上海
 - 飞利浦 Phillips - 上海/成都
 - 吉利科技 Geely - 成都/重庆
 - 捷普科技 Jabil - 成都
 - 联发科 MediaTek - 合肥
 - 凌像科技 Surimage  - 杭州 
-- 乐高 Lego - 上海/哥本哈根 
+- 乐高 Lego - 上海/哥本哈根 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 博世力士乐 Bosch Rexroth - 江苏 
 - Prodrive Technologies - 苏州 
-- 赛峰集团 Safran Group - 北京 
+- 赛峰集团 Safran Group - 北京  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - AMAT - 上海/西安
 - 汇川 - 南京/西安/苏州
 - 信捷 - 无锡
