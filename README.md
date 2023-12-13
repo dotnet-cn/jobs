@@ -98,24 +98,24 @@
 - 递易 - 上海
 - [凯乐士](http://www.galaxis-tech.com/) - 武汉
 - TGW Group - 上海
-- 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise的公司) 
+- 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise的公司) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 联积供应链 - 上海
-- C.H Robinson - 上海
-- Transfinder - 上海 
+- C.H Robinson - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- Transfinder - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 
 ## 建筑/安防/环境 Construction/Safty/Environment
 - 霍尼韦尔 Honeywell- 上海
 - 博世 Bosch - 上海
-- 仲量联行 JLL - 上海
+- 仲量联行 JLL - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - Bureau Veritas 必维国际 - 上海
 - [广联达](https://www.glodon.com/) - 上海
-- 龙湖集团 - 上海
-- 天华建筑设计 - 上海
+- 龙湖集团 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
+- 天华建筑设计 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - 蓝色星球 - 上海/南京
-- Autodesk- 上海/北京
+- Autodesk- 上海/北京 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - [DHI Group](https://www.dhigroup.com)
 - 基准方中建筑设计 - 成都
-- 施耐德电气 Schneider Electric - 上海
+- 施耐德电气 Schneider Electric - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ## 金融 Finance
 - 东方财富- 上海/成都
