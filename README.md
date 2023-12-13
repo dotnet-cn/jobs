@@ -94,9 +94,9 @@
 
 ## 运输物流 Logistics
 - 顺丰快递 - 上海
-- DNV 挪威船级社 - 上海/成都/广州/台北
+- DNV 挪威船级社 - 上海/成都/广州/台北 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 上海胜境网络 - 上海
-- 递易 - 上海
+- 递易 - 上海  ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - [凯乐士](http://www.galaxis-tech.com/) - 武汉
 - TGW Group - 上海
 - 慧咨环球 WiseTech Global - 南京/悉尼 (出品CargoWise的公司) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
