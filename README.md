@@ -183,7 +183,7 @@
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
 - 陶氏化学 Dow Chemical- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/33)
-- [Aspen Technology](https://www.aspentech.com/)- 上海
+- [Aspen Technology](https://www.aspentech.com/)- 上海  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 联合利华 Unilever - 上海/合肥 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ### 新能源 New Energy
