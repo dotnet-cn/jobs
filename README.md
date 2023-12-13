@@ -54,10 +54,9 @@
 ### ERP厂 ERP Software
 - Infor - 上海
 - 用友 - 武汉/南昌/上海/北京/广东 
-- 程析智能 - 上海 (资金链出现问题，已部分裁员)
+- 程析智能 - 上海
 - 聚水潭 - 上海
 - 浩汉智能科技 - 广州 
-- YSD 云尚定 (Cimpress中国) (资金链断裂，已裁员) - 上海
 
 ## 互联网 Internet
 - 活动行 - 上海
@@ -68,7 +67,7 @@
 - IT之家
 - 西窗科技（原微软msn，已私有化） - 上海
 - Stubhub （已被viagogo收购） - 上海/Genève
-- [本来生活网](http://www.benlai.com) - 上海/北京 (已部分裁员)
+- [本来生活网](http://www.benlai.com) - 上海/北京
 - 好医生云医疗 - 成都
 - 肯斯爪特 Construct Tech - 上海 (Litmatch 社交app运营公司)
 - 元聚网络 - 上海 (追书神器app运营公司)
