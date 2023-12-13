@@ -137,7 +137,7 @@
 - 招商银行 - 上海
 - Third Bridge - 上海
 - CSTC 花旗金融 - 上海/蒙特利尔
-- 野村证券 Nomura  - 上海 
+- 野村证券 Nomura  - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - GreenDot - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ## 传统制造业 Manufacturing
