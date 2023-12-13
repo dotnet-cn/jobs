@@ -174,17 +174,17 @@
 
 ### 汽车 Automobile
 - 特斯拉 Tesla - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
-- 蔚来汽车 NIO - 上海
-- 德国大众 Volkswagen  - 北京
+- 蔚来汽车 NIO - 上海 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
+- 德国大众 Volkswagen  - 北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 宝马中国 BMW - 上海/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
-- 上汽集团 - 上海
-- 比亚迪 - 西安/宁波/惠州/深圳
+- 上汽集团 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
+- 比亚迪 - 西安/宁波/惠州/深圳 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - 经纬恒润 - 天津/成都/北京
 
 ### 日化/化工 Daily Chemical/Chemical Engineering
 - 陶氏化学 Dow Chemical- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/33)
 - [Aspen Technology](https://www.aspentech.com/)- 上海
-- 联合利华 Unilever - 上海/合肥
+- 联合利华 Unilever - 上海/合肥 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ### 新能源 New Energy
 - 特来电（充电桩网络） - 济南 ([瓜有点多](https://www.zhihu.com/question/341647465/answer/2056777919))
@@ -196,7 +196,7 @@
 - 乐护科技 - 上海
 - 京颐科技 - 上海
 - 复星诊断 FoSun Diagnostics - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/38)
-- 罗氏 Roche - 上海/Rotkreuz 
+- 罗氏 Roche - 上海/Rotkreuz ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 清赟科技 - 上海
 - 艾莎医学 Ashermed - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup) 
