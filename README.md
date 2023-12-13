@@ -1,4 +1,4 @@
-# 如何使用这个仓库 How to use this Repo
+![image](https://github.com/dotnet-cn/jobs/assets/772561/fefa6424-380e-4b57-8bcb-08ea6ede355e)# 如何使用这个仓库 How to use this Repo
 
 务必开启Watch功能，本repo充分利用github本身的通知功能，Issue会定期更新职位，即使被墙也同样能收到通知邮件。
 ![image](https://user-images.githubusercontent.com/772561/145287519-285bfde6-e0d2-44e3-8149-cc927a5a60a0.png)
@@ -26,17 +26,17 @@
 - 微软 Microsoft - 上海/苏州/北京 [详细信息](https://github.com/orgs/dotnet-cn/discussions/37)
 - 明源云 - 武汉
 - Optimum System (奥解思)
-- [扩博智能](https://www.clobotics.com/) Clobotics - 上海
-- LexisNexis - 上海 
+- [扩博智能](https://www.clobotics.com/) Clobotics - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- LexisNexis - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - HPE 惠普 - 上海
-- 黑瞳科技 - 上海 (出品 公安反诈骗app的公司)
+- 黑瞳科技 - 上海 (出品 公安反诈骗app的公司) ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - 行云创新 - 广东/上海
 - Thoughtworks - 成都/武汉/西安
 - Laserfiche - 上海
-- SSW - 杭州
+- SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 希亚思 CAC - 上海
 - 奥哲 - 深圳
 
