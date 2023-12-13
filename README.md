@@ -33,9 +33,9 @@
 - [seismic](https://seismic.com/)  - 上海
 - 成都科来 - 成都
 - 美伊科技 - 武汉
-- 行云创新 - 广东/上海
+- 行云创新 - 广东/上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - Thoughtworks - 成都/武汉/西安 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) 
-- Laserfiche - 上海
+- Laserfiche - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 希亚思 CAC - 上海
 - 奥哲 - 深圳
