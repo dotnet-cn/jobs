@@ -74,8 +74,8 @@
 - 元聚网络 - 上海 (追书神器app运营公司)
 
 ### 旅游 Travel
-- DidaTravel - 深圳
-- 同城艺龙 - 成都/苏州 [新职位](https://github.com/dotnet-cn/jobs/issues/39)
+- DidaTravel - 深圳 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
+- 同城艺龙 - 成都/苏州 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 
 ### 电商 eCommerce
 - iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) 
