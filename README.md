@@ -39,6 +39,7 @@
 - SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 希亚思 CAC - 上海
 - 奥哲 - 深圳
+- 思杰 Citrix - 南京
 
 ### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
