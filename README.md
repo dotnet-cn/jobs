@@ -77,7 +77,7 @@
 - 同城艺龙 - 成都/苏州 [新职位](https://github.com/dotnet-cn/jobs/issues/39)
 
 ### 电商 eCommerce
-- iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) (只有外派职位)
+- iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) 
 - Pacvue - 无锡/Seattle
 - 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 - PlayerAuctions - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
@@ -175,7 +175,7 @@
 - 特斯拉 Tesla - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
 - 蔚来汽车 NIO - 上海
 - 德国大众 Volkswagen  - 北京
-- 宝马中国 BMW - 上海/北京 [外派职位，无正式] ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- 宝马中国 BMW - 上海/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 上汽集团 - 上海
 - 比亚迪 - 西安/宁波/惠州/深圳
 - 经纬恒润 - 天津/成都/北京
