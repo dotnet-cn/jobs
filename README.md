@@ -221,7 +221,7 @@
 
 ## 零售 Retail
 - 农工商超市 NGS Supermarket - 上海
-- 沃尔玛 Walmart- 上海
+- 沃尔玛 Walmart- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ## 教育 Education
 - 英孚教育 EF Education - 上海
