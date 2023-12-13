@@ -1,4 +1,4 @@
-![image](https://github.com/dotnet-cn/jobs/assets/772561/fefa6424-380e-4b57-8bcb-08ea6ede355e)# 如何使用这个仓库 How to use this Repo
+# 如何使用这个仓库 How to use this Repo
 
 务必开启Watch功能，本repo充分利用github本身的通知功能，Issue会定期更新职位，即使被墙也同样能收到通知邮件。
 ![image](https://user-images.githubusercontent.com/772561/145287519-285bfde6-e0d2-44e3-8149-cc927a5a60a0.png)
@@ -34,7 +34,7 @@
 - 成都科来 - 成都
 - 美伊科技 - 武汉
 - 行云创新 - 广东/上海
-- Thoughtworks - 成都/武汉/西安
+- Thoughtworks - 成都/武汉/西安 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) 
 - Laserfiche - 上海
 - SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 希亚思 CAC - 上海
@@ -52,15 +52,15 @@
 - 文思海辉 Pactera 
 
 ### ERP厂 ERP Software
-- Infor - 上海
+- Infor - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 用友 - 武汉/南昌/上海/北京/广东 
 - 程析智能 - 上海
-- 聚水潭 - 上海
+- 聚水潭 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - 浩汉智能科技 - 广州 
 
 ## 互联网 Internet
 - 活动行 - 上海
-- 31会议 - 上海
+- 31会议 - 上海 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 - 智联招聘 - 上海
 - 文创互娱 - 上海
 - 58同城 - 上海
@@ -78,10 +78,10 @@
 
 ### 电商 eCommerce
 - iHerb - 上海/台北/Irvine [详细信息](https://github.com/orgs/dotnet-cn/discussions/31) 
-- Pacvue - 无锡/Seattle
-- 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
+- Pacvue - 无锡/Seattle ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - PlayerAuctions - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/32)
 - PlanetArt - 上海/杭州 (这是集团公司，cafepress是其子公司)
+- 5173 - 上海 [这家瓜很多](https://www.zhihu.com/question/22051781)
 
 ## 游戏 Games
 - EA - 上海
