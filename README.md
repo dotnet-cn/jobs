@@ -224,7 +224,7 @@
 - 沃尔玛 Walmart- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 
 ## 教育 Education
-- 英孚教育 EF Education - 上海
+- 英孚教育 EF Education - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 朗鹰教育 - 上海
 - 乐教乐学 - 北京
 - 麦可思 MyCos - 成都/北京
