@@ -173,7 +173,7 @@
 - 宝信软件 - 上海
 
 ### 汽车 Automobile
-- 特斯拉 Tesla - 上海 [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
+- 特斯拉 Tesla - 上海  ![mongodb](https://img.shields.io/badge/MongoDB-076141.svg)  [详细信息](https://github.com/orgs/dotnet-cn/discussions/36) 
 - 蔚来汽车 NIO - 上海 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 - 德国大众 Volkswagen  - 北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 宝马中国 BMW - 上海/北京 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
