@@ -144,7 +144,8 @@
 - 英特尔 Intel - 上海/成都 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - AT&S - 重庆 
 - 西门子 Siemens - 上海/成都 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![mongodb](https://img.shields.io/badge/MongoDB-076141.svg) 
-- 大疆 DJI - 深圳 
+- 大疆 DJI - 深圳
+- UFI Filters - 上海
 - 美的 Midea
 - 美国国家仪器 National Instruments - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - 蔡司 ZEISS Group - 上海/广州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
