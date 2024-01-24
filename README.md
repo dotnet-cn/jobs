@@ -36,7 +36,7 @@
 - 行云创新 - 广东/上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - Thoughtworks - 成都/武汉/西安 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) 
 - Laserfiche - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
-- SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- SSW - 杭州 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [详细信息](https://github.com/orgs/dotnet-cn/discussions/41)
 - 希亚思 CAC - 上海
 - 奥哲 - 深圳
 - 思杰 Citrix - 南京
