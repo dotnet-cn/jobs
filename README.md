@@ -26,7 +26,7 @@
 - 微软 Microsoft - 上海/苏州/北京 [详细信息](https://github.com/orgs/dotnet-cn/discussions/37)
 - 明源云 - 武汉
 - Optimum System (奥解思)
-- [扩博智能](https://www.clobotics.com/) Clobotics - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
+- 扩博智能 Clobotics - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - LexisNexis - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - HPE 惠普 - 上海
 - 黑瞳科技 - 上海 (出品 公安反诈骗app的公司) ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
