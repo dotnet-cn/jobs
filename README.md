@@ -201,7 +201,7 @@
 - 清赟科技 - 上海
 - 艾莎医学 Ashermed - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup)
-- 东华原医疗 - 北京 
+- 东华原医疗 - 北京 [新职位](https://github.com/dotnet-cn/jobs/issues/43)
 
 ### 制药 Pharmacy
 - 赛诺菲 Sanofi - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
