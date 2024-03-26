@@ -122,11 +122,9 @@
 - 东方财富- 上海/成都
 - 西部证券 - 上海
 - Beta财富 - 上海
-- 浮石投资 
 - 万得 Wind - 上海
 - Optiver - 上海
 - Global Payments - 成都 ![aws](https://img.shields.io/badge/aws-f8991b.svg)
-- Verisk - 上海  ![aws](https://img.shields.io/badge/aws-f8991b.svg)
 - Linnovate Partners - 深圳 
 - 富谙智 FNZ - 上海 
 
