@@ -8,8 +8,6 @@
 
 # 社群 Online Social
 
-社区活动订阅：https://www.meetup.com/shanghai-nug/ 
-
 微信群：[加群通道](https://github.com/dotnet-cn/jobs/issues/13)
 
 ### 面试准备 Interview Preparation
