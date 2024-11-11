@@ -106,7 +106,7 @@
 ## 建筑/安防/环境 Construction/Safty/Environment
 - 霍尼韦尔 Honeywell- 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
 - 博世 Bosch - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
-- 仲量联行 JLL - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) [新职位](https://www.linkedin.com/jobs/view/3810221075/?refId=G79ARXao%2BKRFrBOiVxJFrA%3D%3D)
+- 仲量联行 JLL - 上海 ![aws](https://img.shields.io/badge/aws-f8991b.svg) ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) 
 - 必维国际 Bureau Veritas - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg) ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
 - [广联达](https://www.glodon.com/) - 上海
 - 龙湖集团 - 上海 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
@@ -198,7 +198,7 @@
 - 清赟科技 - 上海
 - 艾莎医学 Ashermed - 上海
 - [CXA Group](https://www.linkedin.com/company/cxagroup)
-- 东华原医疗 - 北京 [新职位](https://github.com/dotnet-cn/jobs/issues/43)
+- 东华原医疗 - 北京 
 
 ### 制药 Pharmacy
 - 赛诺菲 Sanofi - 上海 ![azure](https://img.shields.io/badge/azure-2d6cbe.svg)
